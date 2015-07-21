@@ -1,0 +1,148 @@
+[main]
+host = https://www.transifex.com
+
+[contao-core-bundle.v4_0-countries]
+file_filter = translations/contao-core-bundle.v4_0-countries/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-default]
+file_filter = translations/contao-core-bundle.v4_0-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-exception]
+file_filter = translations/contao-core-bundle.v4_0-exception/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-explain]
+file_filter = translations/contao-core-bundle.v4_0-explain/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-languages]
+file_filter = translations/contao-core-bundle.v4_0-languages/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-modules]
+file_filter = translations/contao-core-bundle.v4_0-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_article]
+file_filter = translations/contao-core-bundle.v4_0-tl_article/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_content]
+file_filter = translations/contao-core-bundle.v4_0-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_files]
+file_filter = translations/contao-core-bundle.v4_0-tl_files/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_form]
+file_filter = translations/contao-core-bundle.v4_0-tl_form/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_form_field]
+file_filter = translations/contao-core-bundle.v4_0-tl_form_field/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_image_size]
+file_filter = translations/contao-core-bundle.v4_0-tl_image_size/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_image_size_item]
+file_filter = translations/contao-core-bundle.v4_0-tl_image_size_item/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_install]
+file_filter = translations/contao-core-bundle.v4_0-tl_install/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_layout]
+file_filter = translations/contao-core-bundle.v4_0-tl_layout/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_log]
+file_filter = translations/contao-core-bundle.v4_0-tl_log/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_maintenance]
+file_filter = translations/contao-core-bundle.v4_0-tl_maintenance/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_member]
+file_filter = translations/contao-core-bundle.v4_0-tl_member/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_member_group]
+file_filter = translations/contao-core-bundle.v4_0-tl_member_group/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_module]
+file_filter = translations/contao-core-bundle.v4_0-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_page]
+file_filter = translations/contao-core-bundle.v4_0-tl_page/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_settings]
+file_filter = translations/contao-core-bundle.v4_0-tl_settings/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_style]
+file_filter = translations/contao-core-bundle.v4_0-tl_style/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_style_sheet]
+file_filter = translations/contao-core-bundle.v4_0-tl_style_sheet/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_templates]
+file_filter = translations/contao-core-bundle.v4_0-tl_templates/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_theme]
+file_filter = translations/contao-core-bundle.v4_0-tl_theme/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_undo]
+file_filter = translations/contao-core-bundle.v4_0-tl_undo/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_user]
+file_filter = translations/contao-core-bundle.v4_0-tl_user/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_0-tl_user_group]
+file_filter = translations/contao-core-bundle.v4_0-tl_user_group/<lang>.xlf
+source_lang = en
+type = XLIFF
+
