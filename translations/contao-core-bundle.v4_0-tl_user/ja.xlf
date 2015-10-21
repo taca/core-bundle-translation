@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="tl_user.name.0">
         <source>Name</source>
-        <target>氏名</target>
+        <target>名前</target>
       </trans-unit>
       <trans-unit id="tl_user.name.1">
         <source>Please enter the first and last name.</source>
-        <target>氏名を入力してください。</target>
+        <target>名前を入力してください。</target>
       </trans-unit>
       <trans-unit id="tl_user.email.0">
         <source>E-mail address</source>
