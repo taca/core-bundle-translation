@@ -289,10 +289,6 @@
         <source>Ethiopia</source>
         <target>エチオピア</target>
       </trans-unit>
-      <trans-unit id="CNT.eu">
-        <source>European Union</source>
-        <target>欧州連合</target>
-      </trans-unit>
       <trans-unit id="CNT.fi">
         <source>Finland</source>
         <target>フィンランド</target>
@@ -769,10 +765,6 @@
         <source>Qatar</source>
         <target>カタール</target>
       </trans-unit>
-      <trans-unit id="CNT.qo">
-        <source>Outlying Oceania</source>
-        <target>アウトライニング・オセアニア</target>
-      </trans-unit>
       <trans-unit id="CNT.re">
         <source>Réunion</source>
         <target>レユニオン</target>
@@ -787,7 +779,7 @@
       </trans-unit>
       <trans-unit id="CNT.ru">
         <source>Russia</source>
-        <source>Russia</source>
+        <target>ロシア</target>
       </trans-unit>
       <trans-unit id="CNT.rw">
         <source>Rwanda</source>
@@ -871,6 +863,7 @@
       </trans-unit>
       <trans-unit id="CNT.sy">
         <source>Syria</source>
+        <target>シリア</target>
       </trans-unit>
       <trans-unit id="CNT.sz">
         <source>Swaziland</source>
@@ -970,7 +963,7 @@
       </trans-unit>
       <trans-unit id="CNT.va">
         <source>Vatican City</source>
-         <target>バチカン市国</target>
+        <target>バチカン市国</target>
       </trans-unit>
       <trans-unit id="CNT.vc">
         <source>St. Vincent and Grenadines</source>

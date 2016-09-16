@@ -93,6 +93,10 @@
         <source>Bulgarian (Bulgaria)</source>
         <target>ブルガリア語(ブルガリア)</target>
       </trans-unit>
+      <trans-unit id="LNG.bh">
+        <source>Bahrain</source>
+        <target>バーレーン</target>
+      </trans-unit>
       <trans-unit id="LNG.bi">
         <source>Bislama</source>
         <target>ビスラマ語</target>
@@ -937,10 +941,6 @@
         <source>Sango</source>
         <target>サンゴ語</target>
       </trans-unit>
-      <trans-unit id="LNG.sh">
-        <source>Serbo-Croatian</source>
-        <target>セルビア・クロアチア語</target>
-      </trans-unit>
       <trans-unit id="LNG.si">
         <source>Sinhala</source>
         <target>シンハラ語</target>
@@ -1077,14 +1077,6 @@
         <source>Turkmen</source>
         <target>トルクメン語</target>
       </trans-unit>
-      <trans-unit id="LNG.tl">
-        <source>Tagalog</source>
-        <target>タガログ語</target>
-      </trans-unit>
-      <trans-unit id="LNG.tl_PH">
-        <source>Tagalog (Philippines)</source>
-        <target>タガログ語(フィリピン)</target>
-      </trans-unit>
       <trans-unit id="LNG.tn">
         <source>Tswana</source>
         <target>ツワナ語</target>
@@ -1108,10 +1100,6 @@
       <trans-unit id="LNG.tt">
         <source>Tatar</source>
         <target>タタール語</target>
-      </trans-unit>
-      <trans-unit id="LNG.tw">
-        <source>Twi</source>
-        <target>トウィ語</target>
       </trans-unit>
       <trans-unit id="LNG.ug">
         <source>Uyghur</source>
