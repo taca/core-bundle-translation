@@ -774,7 +774,7 @@
         <target>ナウル語</target>
       </trans-unit>
       <trans-unit id="LNG.nb">
-        <source>Norwegian Bokmal</source>
+        <source>Norwegian Bokmål</source>
         <target>ノルウェー語(ブークモール)</target>
       </trans-unit>
       <trans-unit id="LNG.nd">
@@ -808,14 +808,6 @@
       <trans-unit id="LNG.nn">
         <source>Norwegian Nynorsk</source>
         <target>ノルウェー語(ニーノシュク)</target>
-      </trans-unit>
-      <trans-unit id="LNG.no">
-        <source>Norwegian</source>
-        <target>ノルウェー語</target>
-      </trans-unit>
-      <trans-unit id="LNG.no_NO">
-        <source>Norwegian (Norway)</source>
-        <target>ノルウェー語(ノルウェー)</target>
       </trans-unit>
       <trans-unit id="LNG.nr">
         <source>South Ndebele</source>
