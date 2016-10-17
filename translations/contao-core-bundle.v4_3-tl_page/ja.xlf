@@ -204,7 +204,6 @@
       <trans-unit id="tl_page.includeCache.0">
         <source>Set cache timeouts</source>
         <target>キャッシュの有効期間を設定</target>
-        <target>ページと下位のページにキャッシュの有効期間を設定します。</target>
       </trans-unit>
       <trans-unit id="tl_page.includeCache.1">
         <source>Set cache timeout values for the page and its subpages.</source>
