@@ -998,6 +998,10 @@
         <target>モジュールを有効または無効</target>
       </trans-unit>
       <trans-unit id="MSC.aw_title">
+        <source>Title</source>
+        <target>題名</target>
+      </trans-unit>
+      <trans-unit id="MSC.aw_alt">
         <source>Alternate text</source>
         <target>代替テキスト</target>
       </trans-unit>
