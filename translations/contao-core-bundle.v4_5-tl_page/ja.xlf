@@ -134,9 +134,8 @@
         <target>有効なエイリアスの文字</target>
       </trans-unit>
       <trans-unit id="tl_page.validAliasCharacters.1">
-        <source>Please choose the characters for auto-generating page aliases.</source>
-        <target>自動生成するページのエイリアスに使用する文字を選択してください。</target>
-      </trans-unit>
+        <source>Here you can select a custom character set for auto-generated aliases.</source>
+        <target>自動生成するページのエイリアスに使用する独自の文字集合を選択できます。</target>      </trans-unit>
       <trans-unit id="tl_page.createSitemap.0">
         <source>Create an XML sitemap</source>
         <target>XMLサイトマップの作成</target>
