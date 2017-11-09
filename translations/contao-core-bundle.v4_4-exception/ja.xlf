@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="XPT.noForwardFix">
         <source>This is something that needs to be fixed by the administrator of the website. If you are a visitor, there is nothing you can do except to &lt;a href=&quot;%s&quot;&gt;contact the webmaster&lt;/a&gt; to let him know that there is something wrong.</source>
-        <target>これはウェブサイトの管理者が何か修正をしなければなりません。ウェブサイトの訪問者の場合は&lt;a href=&quot;%s&quot;&gt;ウェブマスターに連絡&lt;/a&gt;して、何か問題があると知らせる以外にありません。</target>
+        <target>これはウェブサイトの管理者が何か修正をしなければなりません。ウェブサイトの訪問者の場合は、&lt;a href=&quot;%s&quot;&gt;ウェブマスターに連絡&lt;/a&gt;して何か問題があると知らせる以外にありません。</target>
       </trans-unit>
       <trans-unit id="XPT.noRoot">
         <source>No root page found</source>
