@@ -568,6 +568,17 @@ The confirmation link is valid for 24 hours.
 
 If you did not request an account, please ignore this e-mail.
 </source>
+        <target>##domain##にアカウントの登録をありがとうございます。
+
+以下のURLをクリックすると、登録処理を完了してアカウントを有効します:
+Click here to complete your registration and to activate your account:
+
+##link##
+
+この承認のリンクは24時間有効です。
+
+アカウントの登録を依頼した覚えがない場合は、この電子メールを無視してください。
+</target>
       </trans-unit>
       <trans-unit id="tl_module.passwordText.0">
         <source>Your password request on %s</source>
@@ -582,6 +593,15 @@ Click here to set the new password:
 
 If you did not request this e-mail, please contact the website administrator.
 </source>
+        <target>##domain##で新しいパスワードを設定の依頼を受け付けました。
+
+以下をクリックすると新しいパスワードを設定してください:
+
+##link##
+
+この電子メールを依頼した覚えがない場合は、ウェブサイトの管理者に連絡していただ
+けると幸いです。
+</target>
       </trans-unit>
       <trans-unit id="tl_module.internal">
         <source>Internal file</source>

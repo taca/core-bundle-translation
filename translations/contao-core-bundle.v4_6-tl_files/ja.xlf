@@ -121,6 +121,14 @@
         <source>Click or drop files here to upload</source>
         <target>クリック、またはファイルをドロップしてアップロード</target>
       </trans-unit>
+      <trans-unit id="tl_files.dropzoneFileTooBig">
+        <source>The file is too big ({{filesize}} MiB). The maximum filesize is {{maxFilesize}} MiB.</source>
+        <target>ファイルが大きすぎます({{filesize}} MiB)。最大のファイルの大きさは{{maxFilesize}}MiBです。</target>
+      </trans-unit>
+      <trans-unit id="tl_files.dropzoneInvalidType">
+        <source>Files of this type cannot be uploaded.</source>
+        <target>この種類のファイルはアップロードできません。</target>
+      </trans-unit>
       <trans-unit id="tl_files.fileLocation">
         <source>File location: %s</source>
         <target>ファイルの場所: %s</target>
