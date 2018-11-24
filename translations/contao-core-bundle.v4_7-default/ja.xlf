@@ -2427,6 +2427,7 @@
       </trans-unit>
       <trans-unit id="MSC.twoFactorTextCode">
         <source>If you cannot scan the QR code, enter this key instead:</source>
+        <target>QRコードをスキャンできない場合は、このキーを代わりに入力してください:</target>
       </trans-unit>
       <trans-unit id="MSC.enable">
         <source>Enable</source>
