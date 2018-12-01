@@ -1369,22 +1369,6 @@
         <source>Move the item one position down</source>
         <target>項目を1つ下の位置に移動</target>
       </trans-unit>
-      <trans-unit id="MSC.staticFiles.0">
-        <source>Files URL</source>
-        <target>filesのURL</target>
-      </trans-unit>
-      <trans-unit id="MSC.staticFiles.1">
-        <source>The files URL applies to the &lt;em&gt;files&lt;/em&gt; directory (page speed optimization).</source>
-        <target>filesのURLは&lt;em&gt;files&lt;/em&gt;のディレクトリとすべての画像のサムネイルに適用します。(Page Speed最適化)</target>
-      </trans-unit>
-      <trans-unit id="MSC.staticPlugins.0">
-        <source>Assets URL</source>
-        <target>assetsのURL</target>
-      </trans-unit>
-      <trans-unit id="MSC.staticPlugins.1">
-        <source>The assets URL applies to the &lt;em&gt;assets&lt;/em&gt; directory (page speed optimization).</source>
-        <target>asstesのURLは&lt;em&gt;assets&lt;/em&gt;のディレクトリに適用します。(Page Speed最適化)</target>
-      </trans-unit>
       <trans-unit id="MSC.shortcuts.0">
         <source>Back end keyboard shortcuts</source>
         <target>バックエンドのキーボードのショートカット</target>
@@ -1468,10 +1452,6 @@
       <trans-unit id="MSC.user">
         <source>User</source>
         <target>ユーザー</target>
-      </trans-unit>
-      <trans-unit id="MSC.loginTo">
-        <source>Log into %s</source>
-        <target>%sにログイン</target>
       </trans-unit>
       <trans-unit id="MSC.loginBT">
         <source>Login</source>
@@ -1709,10 +1689,6 @@
         <source>justified</source>
         <target>両端揃え</target>
       </trans-unit>
-      <trans-unit id="MSC.filetree">
-        <source>File system</source>
-        <target>ファイルシステム</target>
-      </trans-unit>
       <trans-unit id="MSC.male">
         <source>Male</source>
         <target>男性</target>
@@ -1773,9 +1749,9 @@
         <source>Back end modules</source>
         <target>バックエンドモジュール</target>
       </trans-unit>
-      <trans-unit id="MSC.welcomeTo">
-        <source>%s back end</source>
-        <target>%sのバックエンド</target>
+      <trans-unit id="MSC.dashboard">
+        <source>Dashboard</source>
+        <target>ダッシュボード</target>
       </trans-unit>
       <trans-unit id="MSC.updateVersion">
         <source>Contao version %s is available.</source>
