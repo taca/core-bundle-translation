@@ -81,14 +81,6 @@
         <source>For an empty URL display the website instead of redirecting to the language root page (not recommended).</source>
         <target>言語をURLに追加を有効にしているときに、空のURLで言語のルートのページにリダイレクトしません。(推奨しません。)</target>
       </trans-unit>
-      <trans-unit id="tl_settings.useAutoItem.0">
-        <source>Enable auto_item</source>
-        <target>auto_itemパラメーターを有効</target>
-      </trans-unit>
-      <trans-unit id="tl_settings.useAutoItem.1">
-        <source>Skip the &lt;em&gt;items/&lt;/em&gt; or &lt;em&gt;events/&lt;/em&gt; fragment in the URL and automatically discover the item based on the &lt;em&gt;auto_item&lt;/em&gt; parameter.</source>
-        <target>URLの &lt;em&gt;items/&lt;/em&gt; や &lt;em&gt;events/&lt;/em&gt; といった断片を飛ばして、 &lt;em&gt;auto_item&lt;/em&gt; パラメーターを基に自動的に項目を見いだします。</target>
-      </trans-unit>
       <trans-unit id="tl_settings.folderUrl.0">
         <source>Enable folder URLs</source>
         <target>フォルダーのURLを有効</target>
@@ -236,6 +228,10 @@
       <trans-unit id="tl_settings.uploads_legend">
         <source>Upload settings</source>
         <target>アップロードの設定</target>
+      </trans-unit>
+      <trans-unit id="tl_settings.cron_legend">
+        <source>Cron job settings</source>
+        <target>Cronジョブの設定</target>
       </trans-unit>
       <trans-unit id="tl_settings.search_legend">
         <source>Search engine settings</source>

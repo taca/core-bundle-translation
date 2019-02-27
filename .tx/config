@@ -421,3 +421,13 @@ file_filter = translations/contao-core-bundle.v4_7-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[contao-core-bundle.v4_7-tl_opt_in]
+file_filter = translations/contao-core-bundle.v4_7-tl_opt_in/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-core-bundle.v4_7-tl_opt_in_related]
+file_filter = translations/contao-core-bundle.v4_7-tl_opt_in_related/<lang>.xlf
+source_lang = en
+type = XLIFF
+
