@@ -2169,6 +2169,10 @@
         <source>Your search for &lt;strong&gt;%s&lt;/strong&gt; returned no results.</source>
         <target>&lt;strong&gt;%s&lt;/strong&gt;の検索の結果はありませんでした。</target>
       </trans-unit>
+      <trans-unit id="MSC.sKeywordHint">
+        <source>Note that keywords shorter than %s characters and without a modifier have been ignored.</source>
+        <target>%s文字より短く、修飾子のないキーワードを無視することに注意してください。</target>
+      </trans-unit>
       <trans-unit id="MSC.seconds">
         <source>seconds</source>
         <target>秒</target>
@@ -2463,7 +2467,7 @@
       </trans-unit>
       <trans-unit id="MSC.internalCssEditor">
         <source>The internal CSS editor has been deprecated and will be removed in one of the next Contao versions! Please consider exporting your existing style sheets and re-adding them to the page layout as external style sheets.</source>
--        <target>内部のCSSエディターは非推奨になり、Contaoの次期バージョンのどこかで削除します!  既存のスタイルシートをエクスポートして、外部スタイルシートとしてページレイアウトに再追加することをご検討ください。</target>
+        <target>内部のCSSエディターは非推奨になり、Contaoの次期バージョンのどこかで削除します!  既存のスタイルシートをエクスポートして、外部スタイルシートとしてページレイアウトに再追加することをご検討ください。</target>
       </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>
