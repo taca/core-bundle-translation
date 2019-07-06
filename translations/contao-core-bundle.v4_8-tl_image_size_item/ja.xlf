@@ -29,9 +29,9 @@
         <source>Image size settings</source>
         <target>画像サイズの設定</target>
       </trans-unit>
-      <trans-unit id="tl_image_size_item.expert_legend">
-        <source>Expert settings</source>
-        <target>専門的な設定</target>
+      <trans-unit id="tl_image_size_item.source_legend">
+        <source>Image source settings</source>
+        <target>画像ソースの設定</target>
       </trans-unit>
       <trans-unit id="tl_image_size_item.visibility_legend">
         <source>Visibility</source>
