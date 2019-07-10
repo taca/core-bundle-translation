@@ -73,9 +73,9 @@
         <source>Here you can select which image formats shall be converted.</source>
         <target>どの画像の形式を変換するか選択できます。</target>
       </trans-unit>
-      <trans-unit id="tl_image_size.formatsMissingWebp">
-        <source>You can enable WEBP images by adding &quot;webp&quot; to &lt;em&gt;contao.image.valid_extensions&lt;/em&gt;.</source>
-        <target>&lt;em&gt;contao.image.valid_extensions&lt;/em&gt;.に&quot;webp&quot;を追加するとWEBP画像を有効にできます。</target>
+      <trans-unit id="tl_image_size.formatsWebpNotSupported">
+        <source>WEBP is not supported on your server.</source>
+        <target>サーバーがWEBPをサポートしていません。</target>
       </trans-unit>
       <trans-unit id="tl_image_size.skipIfDimensionsMatch.0">
         <source>Use original image if dimensions match</source>

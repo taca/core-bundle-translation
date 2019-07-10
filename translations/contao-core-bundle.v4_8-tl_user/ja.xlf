@@ -314,8 +314,8 @@
         <target>画像キャッシュ</target>
       </trans-unit>
       <trans-unit id="tl_user.tempLabel">
-        <source>Page cache</source>
-        <target>ページキャッシュ</target>
+        <source>Shared cache</source>
+        <target>共有キャッシュ</target>
       </trans-unit>
       <trans-unit id="tl_user.sessionPurged">
         <source>The session data has been purged</source>
@@ -326,8 +326,8 @@
         <target>画像キャッシュを消去しました。</target>
       </trans-unit>
       <trans-unit id="tl_user.tempPurged">
-        <source>The page cache has been purged</source>
-        <target>ページキャッシュの内容を消去しました。</target>
+        <source>The shared cache has been purged</source>
+        <target>共有キャッシュを消去しました。</target>
       </trans-unit>
       <trans-unit id="tl_user.FileUpload">
         <source>Default uploader</source>

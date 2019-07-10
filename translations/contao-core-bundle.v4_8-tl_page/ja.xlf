@@ -369,6 +369,22 @@
         <source>Do not show the page on the website on and after this day.</source>
         <target>この日から後はページをウェブサイトに表示しません。</target>
       </trans-unit>
+      <trans-unit id="tl_page.enforceTwoFactor.0">
+        <source>Enforce two-factor authentication</source>
+        <target>2ファクター認証を強制</target>
+      </trans-unit>
+      <trans-unit id="tl_page.enforceTwoFactor.1">
+        <source>Enforce two-factor authentication for all members.</source>
+        <target>すべてのメンバーに2ファクター認証を強制します。</target>
+      </trans-unit>
+      <trans-unit id="tl_page.twoFactorJumpTo.0">
+        <source>Two-factor redirect page</source>
+        <target>2ファクター認証のリダイレクトページ</target>
+      </trans-unit>
+      <trans-unit id="tl_page.twoFactorJumpTo.1">
+        <source>Please choose the page to which visitors will be redirected when setting up two-factor authentication.</source>
+        <target>2ファクター認証を設定した時に移動するページを選択してください。</target>
+      </trans-unit>
       <trans-unit id="tl_page.title_legend">
         <source>Name and type</source>
         <target>名前と種類</target>
@@ -432,6 +448,10 @@
       <trans-unit id="tl_page.publish_legend">
         <source>Publish settings</source>
         <target>公開の設定</target>
+      </trans-unit>
+      <trans-unit id="tl_page.twoFactor_legend">
+        <source>Two-factor authentication</source>
+        <target>2ファクター認証</target>
       </trans-unit>
       <trans-unit id="tl_page.permanent">
         <source>301 Permanent redirect</source>

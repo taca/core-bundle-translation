@@ -393,6 +393,14 @@
         <source>Adds an RSS feed to the page</source>
         <target>RSSフィードをページに追加</target>
       </trans-unit>
+      <trans-unit id="FMD.two_factor.0">
+        <source>Two-factor authentication</source>
+        <target>2ファクター認証</target>
+      </trans-unit>
+      <trans-unit id="FMD.two_factor.1">
+        <source>Generates a form to set up or change two-factor authentication</source>
+        <target>2ファクター認証の設定または変更するフォームを生成します。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

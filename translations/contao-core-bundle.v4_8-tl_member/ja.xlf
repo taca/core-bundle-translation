@@ -193,6 +193,10 @@
         <source>Automatically deactivate the account on this day.</source>
         <target>この日で自動的にアカウントの使用を停止します。</target>
       </trans-unit>
+      <trans-unit id="tl_member.useTwoFactor">
+        <source>Use two-factor authentication</source>
+        <target>2ファクター認証を使用</target>
+      </trans-unit>
       <trans-unit id="tl_member.personal_legend">
         <source>Personal data</source>
         <target>個人データ</target>
