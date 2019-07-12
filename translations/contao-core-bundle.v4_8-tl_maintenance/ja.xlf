@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="tl_maintenance_jobs.scripts.1">
         <source>Removes the automatically generated &lt;code&gt;.css&lt;/code&gt; and &lt;code&gt;.js&lt;/code&gt; files, recreates the internal style sheets and then purges the shared cache.</source>
-<target>自動的に生成した拡張子が&lt;code&gt;.css&lt;/code&gt;と&lt;code&gt;.js&lt;/code&gt;のファイルを削除し、内部のスタイルシートを再作成して、そして共有キャッシュを消去します。</target>
+        <target>自動的に生成した拡張子が&lt;code&gt;.css&lt;/code&gt;と&lt;code&gt;.js&lt;/code&gt;のファイルを削除し、内部のスタイルシートを再作成して、そして共有キャッシュを消去します。</target>
       </trans-unit>
       <trans-unit id="tl_maintenance_jobs.pages.0">
         <source>Purge the shared cache</source>
