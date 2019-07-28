@@ -230,7 +230,7 @@
         <target>共有キャッシュの有効期間</target>
       </trans-unit>
       <trans-unit id="tl_page.cache.1">
-        <source>The number of seconds after which the page should no longer be considered fresh by shared caches.</source>
+        <source>The number of seconds after which the page should no longer be considered fresh by a shared cache.</source>
         <target>共有キャッシュがページが最新でないと判断する秒数です。</target>
       </trans-unit>
       <trans-unit id="tl_page.alwaysLoadFromCache.0">
@@ -246,8 +246,8 @@
         <target>プライベートなキャッシュの有効期間</target>
       </trans-unit>
       <trans-unit id="tl_page.clientCache.1">
-        <source>The number of seconds after which the page should no longer be considered fresh by the browser.</source>
-        <target>ブラウザーがページが最新でないと判断する秒数です。</target>
+        <source>The number of seconds after which the page should no longer be considered fresh by a private cache.</source>
+        <target>プライベートなキャッシュでページが最新でないと判断する秒数です。</target>
       </trans-unit>
       <trans-unit id="tl_page.includeChmod.0">
         <source>Assign access rights</source>
