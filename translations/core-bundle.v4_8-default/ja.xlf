@@ -1885,18 +1885,6 @@
         <source>show</source>
         <target>表示</target>
       </trans-unit>
-      <trans-unit id="MSC.debugMode">
-        <source>Debug mode</source>
-        <target>デバッグモード</target>
-      </trans-unit>
-      <trans-unit id="MSC.debugEnabled">
-        <source>enabled</source>
-        <target>有効</target>
-      </trans-unit>
-      <trans-unit id="MSC.debugDisabled">
-        <source>disabled</source>
-        <target>無効</target>
-      </trans-unit>
       <trans-unit id="MSC.apply">
         <source>Apply</source>
         <target>適用</target>
