@@ -175,6 +175,7 @@
       </trans-unit>
       <trans-unit id="tl_page.useFolderUrl.1">
         <source>Generate folder-style page aliases like &lt;em&gt;docs/install/download.html&lt;/em&gt; instead of &lt;em&gt;docs-install-download.html&lt;/em&gt;.</source>
+        <target>&lt;em&gt;docs-install-download.html&lt;/em&gt;の代わりに&lt;em&gt;docs/install/download.html&lt;/em&gt;の様なフォルダー形式のページのエイリアスを生成します。</target>
       </trans-unit>
       <trans-unit id="tl_page.createSitemap.0">
         <source>Create an XML sitemap</source>
