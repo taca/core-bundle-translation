@@ -14,8 +14,8 @@
         <target>アーティクルとコンテント要素を管理</target>
       </trans-unit>
       <trans-unit id="MOD.form.0">
-        <source>Form generator</source>
-        <target>フォームジェネレーター</target>
+        <source>Forms</source>
+        <target>フォーム</target>
       </trans-unit>
       <trans-unit id="MOD.form.1">
         <source>Create custom forms and store or send the submitted data</source>
