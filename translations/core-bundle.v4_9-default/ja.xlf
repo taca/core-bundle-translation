@@ -2461,11 +2461,11 @@
         <source>The internal CSS editor has been deprecated and will be removed in one of the next Contao versions! Please consider exporting your existing style sheets and re-adding them to the page layout as external style sheets.</source>
         <target>内部のCSSエディターは非推奨になり、Contaoの次期バージョンのどこかで削除します!  既存のスタイルシートをエクスポートして、外部スタイルシートとしてページレイアウトに再追加することをご検討ください。</target>
       </trans-unit>
-      <trans-unit id="MSC.serp_preview.0">
+      <trans-unit id="MSC.serpPreview.0">
         <source>SERP preview</source>
         <target>SERPプレビュー</target>
       </trans-unit>
-      <trans-unit id="MSC.serp_preview.1">
+      <trans-unit id="MSC.serpPreview.1">
         <source>Here you can preview the meta data in the search results. Some search engines might show longer texts or crop at a different position.</source>
         <target>検索結果のメタデータをプレビューできます。検索エンジンによっては、より長いテキストを表示したり、異なる位置で切り詰めたり、します。</target>
       </trans-unit>

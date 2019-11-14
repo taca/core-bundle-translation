@@ -330,12 +330,12 @@
         <target>このclassはナビゲーションメニューと&amp;lt;body&amp;gt;タグで使用します。</target>
       </trans-unit>
       <trans-unit id="tl_page.sitemap.0">
-        <source>Show in sitemap</source>
-        <target>サイトマップに表示</target>
+        <source>Show in HTML sitemap</source>
+        <target>HTMLのサイトマップに表示</target>
       </trans-unit>
       <trans-unit id="tl_page.sitemap.1">
-        <source>Here you can define whether the page is shown in the sitemap.</source>
-        <target>サイトマップにページを表示するかどうか指定します。</target>
+        <source>Here you can define whether the page is shown in the HTML sitemap.</source>
+        <target>このページをHTMLのサイトマップに表示するかどうか指定できます。</target>
       </trans-unit>
       <trans-unit id="tl_page.hide.0">
         <source>Hide from navigation</source>
@@ -382,16 +382,16 @@
         <target>公開の開始日</target>
       </trans-unit>
       <trans-unit id="tl_page.start.1">
-        <source>Do not show the page on the website before this day.</source>
-        <target>この日より前はページをウェブサイトに表示しません。</target>
+        <source>If you want to prevent the page from showing on the website before a certain date/time, you can enter it here. Otherwise leave the field blank.</source>
+        <target>ある特定の日時より前はページをウェブサイトに表示したくない場合は、その日時を入力します。それ以外の場合は空のままにしてください。</target>
       </trans-unit>
       <trans-unit id="tl_page.stop.0">
         <source>Show until</source>
         <target>公開の終了日</target>
       </trans-unit>
       <trans-unit id="tl_page.stop.1">
-        <source>Do not show the page on the website on and after this day.</source>
-        <target>この日から後はページをウェブサイトに表示しません。</target>
+        <source>If you want to prevent the page from showing on the website after a certain date/time, you can enter it here. Otherwise leave the field blank.</source>
+        <target>ある特定の日時より後はページをウェブサイトに表示したくない場合は、その日時を入力します。それ以外の場合は空のままにしてください。</target>
       </trans-unit>
       <trans-unit id="tl_page.enforceTwoFactor.0">
         <source>Enforce two-factor authentication</source>
