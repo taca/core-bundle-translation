@@ -49,6 +49,10 @@
         <source>Allowed modules</source>
         <target>許可するモジュール</target>
       </trans-unit>
+      <trans-unit id="tl_user_group.elements_legend">
+        <source>Allowed elements</source>
+        <target>許可するコンテント要素</target>
+      </trans-unit>
       <trans-unit id="tl_user_group.pagemounts_legend">
         <source>Pagemounts</source>
         <target>ページマウント</target>
@@ -74,8 +78,8 @@
         <target>許可する項目</target>
       </trans-unit>
       <trans-unit id="tl_user_group.account_legend">
-        <source>Account settings</source>
-        <target>アカウントの設定</target>
+        <source>Group settings</source>
+        <target>グループの設定</target>
       </trans-unit>
       <trans-unit id="tl_user_group.new.0">
         <source>New</source>

@@ -169,14 +169,6 @@
         <source>Here you can select a custom character set for auto-generated aliases.</source>
         <target>自動生成するページのエイリアスに使用する独自の文字集合を選択できます。</target>
       </trans-unit>
-      <trans-unit id="tl_page.useFolderUrl.0">
-        <source>Enable folder URLs</source>
-        <target>フォルダーのURLを有効</target>
-      </trans-unit>
-      <trans-unit id="tl_page.useFolderUrl.1">
-        <source>Generate folder-style page aliases like &lt;em&gt;docs/install/download.html&lt;/em&gt; instead of &lt;em&gt;docs-install-download.html&lt;/em&gt;.</source>
-        <target>&lt;em&gt;docs-install-download.html&lt;/em&gt;の代わりに&lt;em&gt;docs/install/download.html&lt;/em&gt;の様なフォルダー形式のページのエイリアスを生成します。</target>
-      </trans-unit>
       <trans-unit id="tl_page.createSitemap.0">
         <source>Create an XML sitemap</source>
         <target>XMLサイトマップの作成</target>

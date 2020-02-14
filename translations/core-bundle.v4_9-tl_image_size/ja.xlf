@@ -90,8 +90,8 @@
         <target>遅延読み込みを有効</target>
       </trans-unit>
       <trans-unit id="tl_image_size.lazyLoading.1">
-        <source>Adds loading=&amp;quot;lazy&amp;quot; to the &amp;lt;img&amp;gt; tag to defer loading the image until it is scrolled into the viewport.</source>
-        <target>&amp;lt;img&amp;gt;タグにloading=&amp;quot;lazy&amp;quot;を追加して、画像が表示域にスクロールされるまで画像の読み込み遅延します。</target>
+        <source>Defer loading the image until it is scrolled into the viewport.</source>
+        <target>画像がウィンドウ内にスクロールされて表示されるまで読み込みを遅延します。</target>
       </trans-unit>
       <trans-unit id="tl_image_size.tstamp.0">
         <source>Revision date</source>

@@ -57,9 +57,9 @@
         <source>Auto-redirect</source>
         <target>自動リダイレクト</target>
       </trans-unit>
-      <trans-unit id="tl_member_group.disable_legend">
-        <source>Account settings</source>
-        <target>アカウントの設定</target>
+      <trans-unit id="tl_member_group.account_legend">
+        <source>Group settings</source>
+        <target>グループの設定</target>
       </trans-unit>
       <trans-unit id="tl_member_group.new.0">
         <source>New</source>

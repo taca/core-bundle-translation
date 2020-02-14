@@ -561,6 +561,126 @@
         <source>Displays the teaser text of an article.</source>
         <target>アーティクルのティーザーのテキストを表示します。</target>
       </trans-unit>
+      <trans-unit id="FFL.explanation.0">
+        <source>Explanation</source>
+        <target>説明</target>
+      </trans-unit>
+      <trans-unit id="FFL.explanation.1">
+        <source>A custom field to insert an explanation text.</source>
+        <target>説明のテキストを入れるフォームの項目です。</target>
+      </trans-unit>
+      <trans-unit id="FFL.html.0">
+        <source>HTML code</source>
+        <target>HTMLコード</target>
+      </trans-unit>
+      <trans-unit id="FFL.html.1">
+        <source>A custom field to insert HTML code.</source>
+        <target>HTMLコードを直接入れるフォームの項目です。</target>
+      </trans-unit>
+      <trans-unit id="FFL.fieldsetStart.0">
+        <source>Fieldset start</source>
+        <target>フィールドセットの開始</target>
+      </trans-unit>
+      <trans-unit id="FFL.fieldsetStart.1">
+        <source>The opening part of a fieldset with an optional legend.</source>
+        <target>フィールドセットの開始を示し、見出しを含められます。</target>
+      </trans-unit>
+      <trans-unit id="FFL.fieldsetStop.0">
+        <source>Fieldset stop</source>
+        <target>フィールドセットの終了</target>
+      </trans-unit>
+      <trans-unit id="FFL.fieldsetStop.1">
+        <source>The closing part of a fieldset.</source>
+        <target>フィールドセットの終了を示します。</target>
+      </trans-unit>
+      <trans-unit id="FFL.text.0">
+        <source>Text field</source>
+        <target>テキスト入力</target>
+      </trans-unit>
+      <trans-unit id="FFL.text.1">
+        <source>A single-line input field for a short or medium text.</source>
+        <target>短めから中程度の長さを入力する、1行のテキスト入力の項目です。</target>
+      </trans-unit>
+      <trans-unit id="FFL.password.0">
+        <source>Password field</source>
+        <target>パスワード入力</target>
+      </trans-unit>
+      <trans-unit id="FFL.password.1">
+        <source>A single-line input field for a password. Contao automatically adds a confirmation field.</source>
+        <target>パスワード用の1行の入力項目です。Contaoは自動的にパスワードの確認の入力項目を追加します。</target>
+      </trans-unit>
+      <trans-unit id="FFL.textarea.0">
+        <source>Textarea</source>
+        <target>テキストエリア</target>
+      </trans-unit>
+      <trans-unit id="FFL.textarea.1">
+        <source>A multi-line input field for a medium or long text.</source>
+        <target>中程度から長めのテキストを入力する、複数行の入力項目です。</target>
+      </trans-unit>
+      <trans-unit id="FFL.select.0">
+        <source>Select menu</source>
+        <target>選択メニュー</target>
+      </trans-unit>
+      <trans-unit id="FFL.select.1">
+        <source>A single- or multi-line drop-down menu.</source>
+        <target>1行または複数行のドロップダウンメニューです。</target>
+      </trans-unit>
+      <trans-unit id="FFL.radio.0">
+        <source>Radio button menu</source>
+        <target>ラジオボタンメニュー</target>
+      </trans-unit>
+      <trans-unit id="FFL.radio.1">
+        <source>A list of multiple options from which one can be selected.</source>
+        <target>1つだけ選択できる、複数の選択肢のリストです。</target>
+      </trans-unit>
+      <trans-unit id="FFL.checkbox.0">
+        <source>Checkbox menu</source>
+        <target>チェックボックスメニュー</target>
+      </trans-unit>
+      <trans-unit id="FFL.checkbox.1">
+        <source>A list of multiple options from which any can be selected.</source>
+        <target>どれでも選択できる、複数の選択肢のリストです。</target>
+      </trans-unit>
+      <trans-unit id="FFL.upload.0">
+        <source>File upload</source>
+        <target>ファイルをアップロード</target>
+      </trans-unit>
+      <trans-unit id="FFL.upload.1">
+        <source>A single-line input field to upload a local file to the server.</source>
+        <target>ローカルのファイルをサーバーにアップロードするための1行の入力項目です。</target>
+      </trans-unit>
+      <trans-unit id="FFL.range.0">
+        <source>Range slider</source>
+        <target>範囲のスライダー</target>
+      </trans-unit>
+      <trans-unit id="FFL.range.1">
+        <source>A range slider to select a value or range of values between a specified min and max.</source>
+        <target>範囲のスライダーは指定された最小と最大の値の間の範囲の値を洗濯します。</target>
+      </trans-unit>
+      <trans-unit id="FFL.hidden.0">
+        <source>Hidden field</source>
+        <target>隠し入力</target>
+      </trans-unit>
+      <trans-unit id="FFL.hidden.1">
+        <source>A single-line input field that is not visible in the form.</source>
+        <target>フォームに表示されない1行のテキストの入力項目です。</target>
+      </trans-unit>
+      <trans-unit id="FFL.captcha.0">
+        <source>Security question</source>
+        <target>セキュリティ質問</target>
+      </trans-unit>
+      <trans-unit id="FFL.captcha.1">
+        <source>A simple math question to verify that the form is being submitted by a human (CAPTCHA).</source>
+        <target>(ボットのようなプログラムではなく)人間によってフォームが提出されたことを確認するための、やさしい計算問題です。(CAPTCHA)</target>
+      </trans-unit>
+      <trans-unit id="FFL.submit.0">
+        <source>Submit field</source>
+        <target>提出ボタン</target>
+      </trans-unit>
+      <trans-unit id="FFL.submit.1">
+        <source>A button to submit the form.</source>
+        <target>フォームを提出するボタンです。</target>
+      </trans-unit>
       <trans-unit id="PTY.regular.0">
         <source>Regular page</source>
         <target>通常ページ</target>
@@ -615,7 +735,8 @@
       </trans-unit>
       <trans-unit id="PTY.error_403.1">
         <source>If a member requests a protected page without permission, a 403 error page will be loaded instead.</source>
-        <target>アクセス権のない保護されたページをメンバーがアクセスすると、代わりに403のエラーページが読み込まれます。</target>      </trans-unit>
+        <target>アクセス権のない保護されたページをメンバーがアクセスすると、代わりに403のエラーページが読み込まれます。</target>
+      </trans-unit>
       <trans-unit id="PTY.error_404.0">
         <source>404 Page not found</source>
         <target>404 存在しないページ</target>
@@ -1113,8 +1234,8 @@
         <target>モジュール</target>
       </trans-unit>
       <trans-unit id="MSC.mw_column">
-        <source>Column</source>
-        <target>列</target>
+        <source>Layout section</source>
+        <target>レイアウトセクション</target>
       </trans-unit>
       <trans-unit id="MSC.mw_enable">
         <source>Enable/disable the module</source>
@@ -1364,7 +1485,7 @@
         <source>This seems to be your first login. Welcome to Contao!</source>
         <target>初めてのログインのようですね。Contaoへようこそ!</target>
       </trans-unit>
-      <trans-unit id="MSC.loginCount">
+      <trans-unit id="MSC.loginAttempts">
         <source>Login attempts</source>
         <target>ログインの試み</target>
       </trans-unit>
@@ -1463,10 +1584,6 @@
       <trans-unit id="MSC.homeTitle">
         <source>Back to the back end start page</source>
         <target>バックエンドの開始ページに戻る</target>
-      </trans-unit>
-      <trans-unit id="MSC.burgerTitle">
-        <source>Toggle navigation</source>
-        <target>ナビゲーションを切り替え</target>
       </trans-unit>
       <trans-unit id="MSC.learnMore">
         <source>Learn more on %s</source>
@@ -2448,6 +2565,38 @@
         <source>If you cannot scan the QR code, enter this key instead:</source>
         <target>QRコードをスキャンできない場合は、このキーを代わりに入力してください:</target>
       </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesLabel">
+        <source>Backup codes</source>
+        <target>バックアップコード</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesShow">
+        <source>Show backup codes</source>
+        <target>バックアップコードを表示</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesExplain">
+        <source>Backup codes can be used to access your account if you have lost your authentication device and cannot generate two-factor codes anymore. Treat your backup codes with the same level of attention as your password! We recommend saving them with a password manager such as Lastpass, 1Password or Keeper.</source>
+        <target>認証機器を紛失して、もう2ファクターコードを生成できなくなった場合にバックアップコードをアカウントの開く接すに使用できます。バックアップコードはパスワードと同じレベルに注意して扱ってください。バックアップコードはLastpass、1Password、Keeperのようなパスワード管理に保存することを推奨します。</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesInfo">
+        <source>Put the codes in a safe spot. If you lose your authentication device and do not have backup codes, you cannot access your account anymore!</source>
+        <target>コードは安全な場所に置いてください。認証機器を紛失して、バックアップコードがないと、アカウントにアクセスできなくなります!</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesGenerate">
+        <source>Generate backup codes</source>
+        <target>バックアップコードを生成</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesRegenerate">
+        <source>Regenerate backup codes</source>
+        <target>バックアップコードを再生成</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorBackupCodesRegenerateInfo">
+        <source>When you regenerate the backup codes, your old codes will not work anymore.</source>
+        <target>バックアップコードを再生成すると、古いコードはそれ以降動作しなくなります。</target>
+      </trans-unit>
+      <trans-unit id="MSC.twoFactorTrustDevice">
+        <source>Trust this device</source>
+        <target>この機器を信頼</target>
+      </trans-unit>
       <trans-unit id="MSC.userTemplateEditor">
         <source>There is at least one regular user with access to the template editor. Since templates are PHP files, these users implicitly have full control over the system!</source>
         <target>テンプレートエディターにアクセス権のあるユーザーが存在します。テンプレートはPHPファイルですので、これらのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
@@ -2455,6 +2604,14 @@
       <trans-unit id="MSC.groupTemplateEditor">
         <source>There is at least one user group granting access to the template editor. Since templates are PHP files, users of these groups implicitly have full control over the system!</source>
         <target>テンプレートエディターにアクセス権のあるグループが存在します。テンプレートはPHPファイルですので、これらのグループのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
+      </trans-unit>
+      <trans-unit id="MSC.userThemeImport">
+        <source>There is at least one regular user with permission to import themes. Since themes can contain arbitrary templates and templates are PHP files, these users implicitly have full control over the system!</source>
+        <target>テーマをインポートする権限を持った通常ユーザーがいます。テーマには任意のテンプレートを含めることができ、テンプレートはPHPファイルなので、これらのユーザーは暗黙の内にシステム全体を制御できます!</target>
+      </trans-unit>
+      <trans-unit id="MSC.groupThemeImport">
+        <source>There is at least one user group granting permission to import themes. Since themes can contain arbitrary templates and templates are PHP files, users of these groups implicitly have full control over the system!</source>
+        <target>テーマをインポートする権限を持ったユーザーグループがあります。テーマには任意のテンプレートを含めることができ、テンプレートはPHPファイルなので、これらのグループは暗黙の内にシステム全体を制御できます!</target>
       </trans-unit>
       <trans-unit id="MSC.enable">
         <source>Enable</source>
@@ -2469,12 +2626,40 @@
         <target>内部のCSSエディターは非推奨になり、Contaoの次期バージョンのどこかで削除します!  既存のスタイルシートをエクスポートして、外部スタイルシートとしてページレイアウトに再追加することをご検討ください。</target>
       </trans-unit>
       <trans-unit id="MSC.serpPreview.0">
-        <source>SERP preview</source>
-        <target>SERPプレビュー</target>
+        <source>Google search results preview</source>
+        <target>Google検索の結果のプレビュー</target>
       </trans-unit>
       <trans-unit id="MSC.serpPreview.1">
-        <source>Here you can preview the meta data in the search results. Some search engines might show longer texts or crop at a different position.</source>
-        <target>検索結果のメタデータをプレビューできます。検索エンジンによっては、より長いテキストを表示したり、異なる位置で切り詰めたり、します。</target>
+        <source>Here you can preview the meta data in the Google search results. Other search engines might show longer texts or crop at a different position.</source>
+        <target>Google検索の結果のメタデータをプレビューできます。他の検索エンジンでは、さらに長いテキストを表示したり、異なる位置で切り取られたり、するかもしれません。</target>
+      </trans-unit>
+      <trans-unit id="MSC.clearTrustedDevices">
+        <source>Clear trusted devices</source>
+        <target>信頼している機器を消去</target>
+      </trans-unit>
+      <trans-unit id="MSC.trustedDevices">
+        <source>Trusted devices</source>
+        <target>信頼している機器</target>
+      </trans-unit>
+      <trans-unit id="MSC.noTrustedDevices">
+        <source>Currently there are no trusted devices.</source>
+        <target>信頼している機器は現在ありません。</target>
+      </trans-unit>
+      <trans-unit id="MSC.device">
+        <source>Device</source>
+        <target>機器</target>
+      </trans-unit>
+      <trans-unit id="MSC.thisDevice">
+        <source>this device</source>
+        <target>の機器</target>
+      </trans-unit>
+      <trans-unit id="MSC.browser">
+        <source>Browser</source>
+        <target>ブラウザー</target>
+      </trans-unit>
+      <trans-unit id="MSC.operatingSystem">
+        <source>Operating system</source>
+        <target>オペレーティングシステム</target>
       </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>
@@ -2679,6 +2864,18 @@
       <trans-unit id="DCA.pastenew.1">
         <source>Create a new element after element ID %s</source>
         <target>ID %sの要素の後ろに新しい要素を作成</target>
+      </trans-unit>
+      <trans-unit id="CRAWL.searchIndex.summary">
+        <source>Indexed %d URI(s) successfully. %d failed.</source>
+        <target>%d個のURIをインデックスできました。%d個のインデックスに失敗しました。</target>
+      </trans-unit>
+      <trans-unit id="CRAWL.searchIndex.warning">
+        <source>%d URI(s) were skipped (if you are missing one, checkout the debug log).</source>
+        <target>%d 個のURIを飛ばしました。(欠けているURIがある場合はデバッグログを確認してください。)</target>
+      </trans-unit>
+      <trans-unit id="CRAWL.brokenLinkChecker.summary">
+        <source>Checked %d link(s) successfully. %d were broken.</source>
+        <target>%d 個のリンクが正しいと検査できました。%d個のリンクが切れていました。</target>
       </trans-unit>
     </body>
   </file>
