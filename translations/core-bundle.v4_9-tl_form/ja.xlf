@@ -119,7 +119,7 @@
       </trans-unit>
       <trans-unit id="tl_form.customTpl.1">
         <source>Here you can select the form template.</source>
-        <target>フォームのテンプレートを選択します。</target>
+        <target>フォームのテンプレートを選択できます。</target>
       </trans-unit>
       <trans-unit id="tl_form.targetTable.0">
         <source>Target table</source>

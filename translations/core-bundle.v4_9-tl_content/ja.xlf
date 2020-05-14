@@ -391,12 +391,15 @@
       </trans-unit>
       <trans-unit id="tl_content.galleryTpl.1">
         <source>Here you can select a gallery template.</source>
+        <target>ギャラリーのテンプレートを選択できます。</target>
       </trans-unit>
       <trans-unit id="tl_content.customTpl.0">
         <source>Content element template</source>
+        <target>コンテント要素のテンプレート</target>
       </trans-unit>
       <trans-unit id="tl_content.customTpl.1">
         <source>Here you can select the content element template.</source>
+        <target>コンテント要素のテンプレートを選択できます。</target>
       </trans-unit>
       <trans-unit id="tl_content.playerSRC.0">
         <source>Video/audio files</source>
