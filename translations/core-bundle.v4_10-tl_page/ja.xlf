@@ -131,9 +131,11 @@
       </trans-unit>
       <trans-unit id="tl_page.mailerTransport.0">
         <source>Mailer transport</source>
+        <target>メールトランスポート</target>
       </trans-unit>
       <trans-unit id="tl_page.mailerTransport.1">
         <source>Here you can override the mailer transport used to send e-mails on this website.</source>
+        <target>このウェブサイトで電子メールの送信に使用するメールトランスポートを上書きできます。</target>
       </trans-unit>
       <trans-unit id="tl_page.adminEmail.0">
         <source>E-mail address of the website administrator</source>
@@ -185,15 +187,19 @@
       </trans-unit>
       <trans-unit id="tl_page.urlPrefix.0">
         <source>URL prefix</source>
+        <target>URLのプリフィックス</target>
       </trans-unit>
       <trans-unit id="tl_page.urlPrefix.1">
         <source>Enter a URL prefix (e.g. the language) that will be prepended to aliases for this root page.</source>
+        <target>このルートページでエイリアスの先頭に付加するURLのプリフィックス(例えば言語)を入力してください。</target>
       </trans-unit>
       <trans-unit id="tl_page.urlSuffix.0">
         <source>URL suffix</source>
+        <target>URLのサフィックス</target>
       </trans-unit>
       <trans-unit id="tl_page.urlSuffix.1">
         <source>The URL suffix will be added to the URI string to simulate static documents.</source>
+        <target>URLサフィックスを静的なドキュメントに見せるためにURI文字列に追加します。</target>
       </trans-unit>
       <trans-unit id="tl_page.createSitemap.0">
         <source>Create an XML sitemap</source>
@@ -445,6 +451,7 @@
       </trans-unit>
       <trans-unit id="tl_page.url_legend">
         <source>URL settings</source>
+        <target>URLの設定</target>
       </trans-unit>
       <trans-unit id="tl_page.website_legend">
         <source>Website settings</source>
@@ -568,6 +575,7 @@
       </trans-unit>
       <trans-unit id="tl_page.legacyRouting">
         <source>This setting has been disabled because Contao is running in legacy routing mode.</source>
+        <target>この設定はContaoが古いルーティング方式で動作しているため無効になります。</target>
       </trans-unit>
       <trans-unit id="CACHE.0">
         <source>0 (do not cache)</source>

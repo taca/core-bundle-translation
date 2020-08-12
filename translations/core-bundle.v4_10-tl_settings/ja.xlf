@@ -203,6 +203,7 @@
       </trans-unit>
       <trans-unit id="tl_settings.configuredInApp">
         <source>This setting has been defined in the app configuration and cannot be changed here anymore.</source>
+        <target>この設定はapp構成で定義されて、ここでは変更できなくなりました。</target>
       </trans-unit>
     </body>
   </file>
