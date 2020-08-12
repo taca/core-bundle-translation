@@ -1890,7 +1890,7 @@
         <target>相対パス</target>
       </trans-unit>
       <trans-unit id="MSC.fileMeta">
-        <source>Meta data</source>
+        <source>Metadata</source>
         <target>メタデータ</target>
       </trans-unit>
       <trans-unit id="MSC.versioning">
@@ -2506,8 +2506,8 @@
         <target>%sをダウンロード</target>
       </trans-unit>
       <trans-unit id="MSC.metaNoLanguages">
-        <source>You have to add a root page in the site structure to enter file meta data.</source>
-        <target>ファイルのメタ情報を入力するにはサイト構造でルートのページを追加しなければなりません。</target>
+        <source>You have to add a root page in the site structure to enter file metadata.</source>
+        <target>ファイルのメタデータを入力するにはサイト構造でルートのページを追加しなければなりません。</target>
       </trans-unit>
       <trans-unit id="MSC.breadcrumbMenu">
         <source>Breadcrumb menu</source>
@@ -2646,8 +2646,8 @@
         <target>Google検索の結果のプレビュー</target>
       </trans-unit>
       <trans-unit id="MSC.serpPreview.1">
-        <source>Here you can preview the meta data in the Google search results. Other search engines might show longer texts or crop at a different position.</source>
-        <target>Google検索の結果のメタデータをプレビューできます。他の検索エンジンでは、さらに長いテキストを表示したり、異なる位置で切り取られたり、するかもしれません。</target>
+        <source>Here you can preview the metadata in the Google search results. Other search engines might show longer texts or crop at a different position.</source>
+        <target>Google検索の結果のメタデータをプレビューできます。他の検索エンジンでは、さらに長いテキストを表示したり、異なる位置で切り詰めるかもしれません。</target>
       </trans-unit>
       <trans-unit id="MSC.clearTrustedDevices">
         <source>Clear trusted devices</source>
