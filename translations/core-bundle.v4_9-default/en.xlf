@@ -139,6 +139,9 @@
       <trans-unit id="ERR.aliasExists">
         <source>The alias &quot;%s&quot; already exists!</source>
       </trans-unit>
+      <trans-unit id="ERR.aliasNumeric">
+        <source>Numeric aliases are not supported!</source>
+      </trans-unit>
       <trans-unit id="ERR.importFolder">
         <source>The folder &quot;%s&quot; cannot be imported!</source>
       </trans-unit>
@@ -1088,7 +1091,7 @@
         <source>Please enter a password.</source>
       </trans-unit>
       <trans-unit id="MSC.confirm.0">
-        <source>Confirmation</source>
+        <source>Confirm password</source>
       </trans-unit>
       <trans-unit id="MSC.confirm.1">
         <source>Please confirm the password.</source>
@@ -1998,6 +2001,9 @@
       </trans-unit>
       <trans-unit id="MSC.closeToolbar">
         <source>Close the Contao toolbar</source>
+      </trans-unit>
+      <trans-unit id="MSC.unknownOption">
+        <source>Unknown option: %s</source>
       </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>

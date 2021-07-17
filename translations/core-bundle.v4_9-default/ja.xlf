@@ -185,6 +185,10 @@
         <source>The alias &quot;%s&quot; already exists!</source>
         <target>&quot;%s&quot;というエイリアスは既に存在します。</target>
       </trans-unit>
+      <trans-unit id="ERR.aliasNumeric">
+        <source>Numeric aliases are not supported!</source>
+        <target>数字だけのエイリアスはサポートしていません!</target>
+      </trans-unit>
       <trans-unit id="ERR.importFolder">
         <source>The folder &quot;%s&quot; cannot be imported!</source>
         <target>&quot;%s&quot;はフォルダーなのでインポートできません。</target>
@@ -1450,12 +1454,12 @@
         <target>パスワードを入力してください。</target>
       </trans-unit>
       <trans-unit id="MSC.confirm.0">
-        <source>Confirmation</source>
-        <target>パスワードの再入力</target>
+        <source>Confirm password</source>
+        <target>パスワードの確認</target>
       </trans-unit>
       <trans-unit id="MSC.confirm.1">
         <source>Please confirm the password.</source>
-        <target>確認のためにパスワードを再度入力してください。</target>
+        <target>確認のためのパスワードを入力してください。</target>
       </trans-unit>
       <trans-unit id="MSC.dateAdded.0">
         <source>Date added</source>
@@ -2664,6 +2668,10 @@
       <trans-unit id="MSC.closeToolbar">
         <source>Close the Contao toolbar</source>
         <target>Contaoツールバーを閉じる</target>
+      </trans-unit>
+      <trans-unit id="MSC.unknownOption">
+        <source>Unknown option: %s</source>
+        <target>不明なオプション: %s</target>
       </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>
