@@ -310,8 +310,8 @@
         <target>グループ</target>
       </trans-unit>
       <trans-unit id="tl_page.cgroup.1">
-        <source>Please select a group as the owner of the page.</source>
-        <target>ページを所有するグループを選択してください。</target>
+        <source>Please select a user group as the owner of the page.</source>
+        <target>ページを所有するユーザーグループを選択してください。</target>
       </trans-unit>
       <trans-unit id="tl_page.chmod.0">
         <source>Access rights</source>
