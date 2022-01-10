@@ -129,6 +129,14 @@
         <source>Please choose the page to which visitors will be redirected when clicking a link or submitting a form.</source>
         <target>リンクのクリックやフォームを提出した後に移動するページを選択してください。</target>
       </trans-unit>
+      <trans-unit id="tl_module.overviewPage.0">
+        <source>Overview page</source>
+	<target>概要のページ</target>
+      </trans-unit>
+      <trans-unit id="tl_module.overviewPage.1">
+        <source>Select an overview page to include a link to it in the template.</source>
+	<target>テンプレートでリンクを先とする概要のページを選択します。</target>
+      </trans-unit>
       <trans-unit id="tl_module.redirectBack.0">
         <source>Redirect to last page visited</source>
         <target>最後に参照していたページに移動</target>
