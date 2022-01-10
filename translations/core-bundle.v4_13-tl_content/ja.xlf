@@ -307,9 +307,11 @@
       </trans-unit>
       <trans-unit id="tl_content.data.0">
         <source>Template data</source>
+        <target>テンプレートのデータ</target>
       </trans-unit>
       <trans-unit id="tl_content.data.1">
         <source>These values are available as &lt;code&gt;$this-&gt;data&lt;/code&gt; in the template.</source>
+        <target>これらの値は&lt;code&gt;$this-&gt;data&lt;/code&gt;としてテンプレートで利用できます。</target>
       </trans-unit>
       <trans-unit id="tl_content.linkTitle.0">
         <source>Link text</source>
@@ -862,6 +864,7 @@
       </trans-unit>
       <trans-unit id="tl_content.vimeo_dnt">
         <source>Prevent session data tracking</source>
+        <target>セッションデータのトラッキングを防止</target>
       </trans-unit>
       <trans-unit id="tl_content.new.0">
         <source>New</source>

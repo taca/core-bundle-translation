@@ -451,9 +451,11 @@
       </trans-unit>
       <trans-unit id="CTE.template.0">
         <source>Custom template</source>
+        <target>独自のテンプレート</target>
       </trans-unit>
       <trans-unit id="CTE.template.1">
         <source>Generates an element to insert a custom template.</source>
+        <target>独自のテンプレートを挿入する要素を生成します。</target>
       </trans-unit>
       <trans-unit id="CTE.slider">
         <source>Content slider</source>
@@ -789,9 +791,11 @@
       </trans-unit>
       <trans-unit id="PTY.error_503.0">
         <source>503 Service unavailable</source>
+        <target>503 サービスの利用不可</target>
       </trans-unit>
       <trans-unit id="PTY.error_503.1">
         <source>When a root page is in maintenance mode, a 503 error page is displayed for all requests.</source>
+        <target>ルートのページが保守モードのとき、503のエラーページをすべてのリクエストに表示します。</target>
       </trans-unit>
       <trans-unit id="FOP.fop.0">
         <source>File operation permissions</source>

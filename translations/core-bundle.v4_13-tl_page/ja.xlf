@@ -55,6 +55,7 @@
       </trans-unit>
       <trans-unit id="tl_page.maintenanceMode.1">
         <source>Show visitors a page that this website is currently being maintained.</source>
+        <target>ウェブサイトが現在保守中であることを表示します。</target>
       </trans-unit>
       <trans-unit id="tl_page.description.0">
         <source>Page description</source>
@@ -154,22 +155,27 @@
       </trans-unit>
       <trans-unit id="tl_page.enableCanonical.0">
         <source>Enable rel=&quot;canonical&quot;</source>
+        <target>rel=&quot;canonical&quot;を有効</target>
       </trans-unit>
       <trans-unit id="tl_page.enableCanonical.1">
         <source>Add rel=&quot;canonical&quot; tags to the website.</source>
+        <target>ウェブサイトにrel=&quot;canonical&quot;タグを追加します。</target>
       </trans-unit>
       <trans-unit id="tl_page.canonicalLink.0">
         <source>Custom URL</source>
-        <target>特定のURL</target>
+        <target>独自のURL</target>
       </trans-unit>
       <trans-unit id="tl_page.canonicalLink.1">
         <source>Here you can set a custom canonical URL.</source>
+        <target>基準のURLに独自の値を設定します。</target>
       </trans-unit>
       <trans-unit id="tl_page.canonicalKeepParams.0">
         <source>Query parameters</source>
+        <target>問い合わせのパラメーター</target>
       </trans-unit>
       <trans-unit id="tl_page.canonicalKeepParams.1">
         <source>By default, Contao strips the query parameters in the canonical URL. Here you can add a comma-separated list of query parameters to preserve. Use &quot;*&quot; as a wildcard.</source>
+        <target>初期状態では、Contaoは基準のURLから問い合わせのパラメーターを取り除きます。ここでは取り除かない問い合わせのパラメーターをコンマで区切って指定できます。ワイルドカードには&quot;*&quot;を使用します。</target>
       </trans-unit>
       <trans-unit id="tl_page.adminEmail.0">
         <source>E-mail address of the website administrator</source>
@@ -461,6 +467,7 @@
       </trans-unit>
       <trans-unit id="tl_page.canonical_legend">
         <source>Canonical URL</source>
+        <target>基準のURL</target>
       </trans-unit>
       <trans-unit id="tl_page.system_legend">
         <source>System settings</source>

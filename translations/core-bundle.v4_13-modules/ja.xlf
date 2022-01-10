@@ -387,9 +387,11 @@
       </trans-unit>
       <trans-unit id="FMD.template.0">
         <source>Custom template</source>
+        <target>独自のテンプレート</target>
       </trans-unit>
       <trans-unit id="FMD.template.1">
         <source>Generates a module to insert a custom template.</source>
+        <target>独自のテンプレートを挿入するモジュールを生成します。</target>
       </trans-unit>
       <trans-unit id="FMD.rssReader.0">
         <source>RSS reader</source>
