@@ -1129,6 +1129,14 @@
         <source>Please upload the CSV files to be imported.</source>
         <target>インポートするCSVファイルをアップロードしてください。</target>
       </trans-unit>
+      <trans-unit id="MSC.imgSize.0">
+        <source>Image size</source>
+        <target>画像の大きさ</target>
+      </trans-unit>
+      <trans-unit id="MSC.imgSize.1">
+        <source>Here you can set the image dimensions and the resize mode.</source>
+        <target>画像の大きさとサイズ変更の方法を指定します。</target>
+      </trans-unit>
       <trans-unit id="MSC.comma">
         <source>Comma</source>
         <target>コンマ</target>

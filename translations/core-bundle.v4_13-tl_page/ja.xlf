@@ -9,14 +9,6 @@
         <source>Please enter the page name.</source>
         <target>ページの名前を入力してください。</target>
       </trans-unit>
-      <trans-unit id="tl_page.alias.0">
-        <source>Page alias</source>
-        <target>ページのエイリアス</target>
-      </trans-unit>
-      <trans-unit id="tl_page.alias.1">
-        <source>The page alias is a unique reference to the page which can be called instead of its numeric ID.</source>
-        <target>ページのエイリアスは、その数値のIDの代わりにページを参照できる、重複しない名前です。</target>
-      </trans-unit>
       <trans-unit id="tl_page.type.0">
         <source>Page type</source>
         <target>ページの種類</target>
@@ -25,12 +17,28 @@
         <source>Please choose the page type.</source>
         <target>ページの種類を選択してください。</target>
       </trans-unit>
+      <trans-unit id="tl_page.alias.0">
+        <source>Page alias</source>
+        <target>ページのエイリアス</target>
+      </trans-unit>
+      <trans-unit id="tl_page.alias.1">
+        <source>The page alias is a unique reference to the page which can be called instead of its numeric ID.</source>
+        <target>ページのエイリアスは、その数値のIDの代わりにページを参照できる、重複しない名前です。</target>
+      </trans-unit>
+      <trans-unit id="tl_page.requireItem.0">
+        <source>Require an item</source>
+        <target>必要な項目</target>
+      </trans-unit>
+      <trans-unit id="tl_page.requireItem.1">
+        <source>Trigger a 404 error if the page URL does not contain an item alias.</source>
+        <target>URLが項目のエイリアスを含んでいない場合に404エラーを起こします。</target>
+      </trans-unit>
       <trans-unit id="tl_page.routePath.0">
         <source>Route path</source>
         <target>ルートのパス</target>
       </trans-unit>
       <trans-unit id="tl_page.routePath.1">
-        <source>A preview of the final path (possibly with placeholers) to match this page.</source>
+        <source>A preview of the final path (possibly with placeholders) to match this page.</source>
         <target>このページに合致する(プレースホルダーを含む場合もある)最終的なプレビューのパスです。</target>
       </trans-unit>
       <trans-unit id="tl_page.routePriority.0">
@@ -377,14 +385,6 @@
         <source>Exclude the page from the search index.</source>
         <target>ページを検索のインデックス作成から除外します。</target>
       </trans-unit>
-      <trans-unit id="tl_page.requireItem.0">
-        <source>Require an item</source>
-        <target>必要な項目</target>
-      </trans-unit>
-      <trans-unit id="tl_page.requireItem.1">
-        <source>Trigger a 404 error if the page URL does not contain an item alias.</source>
-        <target>URLが項目のエイリアスを含んでいない場合に404エラーを起こします。</target>
-      </trans-unit>
       <trans-unit id="tl_page.cssClass.0">
         <source>CSS class</source>
         <target>CSSのclass</target>
@@ -629,11 +629,11 @@
         <source>Disable legacy routing mode to enable this configuration.</source>
         <target>古いルーティング方式を無効にして、この構成を有効にします。</target>
       </trans-unit>
-      <trans-unit id="tl_page.routeConflicts">
+      <trans-unit id="tl_page.routeConflicts.0">
         <source>Route conflicts</source>
         <target>ルートの競合</target>
       </trans-unit>
-      <trans-unit id="tl_page.conflictingAlias">
+      <trans-unit id="tl_page.routeConflicts.1">
         <source>The following pages have a similar alias that may conflict with this page. If the URL is not resolved correctly, try changing the priority of the routes.</source>
         <target>以下のページに、このページと競合するかもしれない似たようなエイリアスがあります。URLが正しく決定できない場合は、ルートの優先度を変更してみてください。</target>
       </trans-unit>

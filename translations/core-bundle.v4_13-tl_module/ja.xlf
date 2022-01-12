@@ -131,11 +131,11 @@
       </trans-unit>
       <trans-unit id="tl_module.overviewPage.0">
         <source>Overview page</source>
-	<target>概要のページ</target>
+        <target>概要のページ</target>
       </trans-unit>
       <trans-unit id="tl_module.overviewPage.1">
         <source>Select an overview page to include a link to it in the template.</source>
-	<target>テンプレートでリンクを先とする概要のページを選択します。</target>
+        <target>テンプレートでリンクを先とする概要のページを選択します。</target>
       </trans-unit>
       <trans-unit id="tl_module.redirectBack.0">
         <source>Redirect to last page visited</source>
@@ -320,14 +320,6 @@
       <trans-unit id="tl_module.fullsize.1">
         <source>Open the full-size image in a lightbox or the link in a new browser window.</source>
         <target>ライトボックスにフルサイズの画像、または新しいブラウザーのウィンドウにリンクを開きます。</target>
-      </trans-unit>
-      <trans-unit id="tl_module.imgSize.0">
-        <source>Image size</source>
-        <target>画像の大きさ</target>
-      </trans-unit>
-      <trans-unit id="tl_module.imgSize.1">
-        <source>Here you can set the image dimensions and the resize mode.</source>
-        <target>画像の大きさとサイズ変更の方法を指定します。</target>
       </trans-unit>
       <trans-unit id="tl_module.useCaption.0">
         <source>Show caption</source>

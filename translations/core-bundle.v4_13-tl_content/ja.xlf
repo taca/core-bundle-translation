@@ -73,14 +73,6 @@
         <source>Here you can enter the image title (&lt;em&gt;title&lt;/em&gt; attribute).</source>
         <target>画像の題名(&lt;em&gt;title&lt;/em&gt;属性)を指定できます。</target>
       </trans-unit>
-      <trans-unit id="tl_content.size.0">
-        <source>Image size</source>
-        <target>画像の大きさ</target>
-      </trans-unit>
-      <trans-unit id="tl_content.size.1">
-        <source>Here you can set the image dimensions and the resize mode.</source>
-        <target>画像の大きさとサイズ変更の方法を指定します。</target>
-      </trans-unit>
       <trans-unit id="tl_content.imagemargin.0">
         <source>Image margin</source>
         <target>画像の余白</target>
