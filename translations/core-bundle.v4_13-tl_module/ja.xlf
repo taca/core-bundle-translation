@@ -505,6 +505,16 @@
         <source>These values are available as &lt;code&gt;$this-&gt;data&lt;/code&gt; in the template.</source>
         <target>これらの値は&lt;code&gt;$this-&gt;data&lt;/code&gt;としてテンプレートで利用できます。</target>
       </trans-unit>
+      <trans-unit id="tl_module.rootPageDependentModules.0">
+        <source>Modules</source>
+        <target>モジュール</target>
+      </trans-unit>
+      <trans-unit id="tl_module.rootPageDependentModules.1">
+        <source>Please select a module for every root page.</source>
+      </trans-unit>
+      <trans-unit id="tl_module.rootPageDependentModulesBlankOptionLabel">
+        <source>Module for &quot;%s&quot;</source>
+      </trans-unit>
       <trans-unit id="tl_module.title_legend">
         <source>Title and type</source>
         <target>名前と種類</target>

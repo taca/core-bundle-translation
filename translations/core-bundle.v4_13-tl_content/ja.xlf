@@ -33,6 +33,12 @@
         <source>Add an image to the content element.</source>
         <target>コンテント要素に画像を追加します。</target>
       </trans-unit>
+      <trans-unit id="tl_content.showPreview.0">
+        <source>Show preview images</source>
+      </trans-unit>
+      <trans-unit id="tl_content.showPreview.1">
+        <source>Show preview images of the selected files.</source>
+      </trans-unit>
       <trans-unit id="tl_content.inline.0">
         <source>Show in browser</source>
         <target>ブラウザーで表示</target>
@@ -657,6 +663,9 @@
       <trans-unit id="tl_content.download_legend">
         <source>Download settings</source>
         <target>ダウンロードの設定</target>
+      </trans-unit>
+      <trans-unit id="tl_content.preview_legend">
+        <source>Preview settings</source>
       </trans-unit>
       <trans-unit id="tl_content.slider_legend">
         <source>Slider settings</source>

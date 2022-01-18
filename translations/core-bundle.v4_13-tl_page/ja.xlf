@@ -313,6 +313,12 @@
         <source>You can manage page layouts with the &quot;themes&quot; module.</source>
         <target>ページレイアウトは「テーマ」のモジュールで管理できます。</target>
       </trans-unit>
+      <trans-unit id="tl_page.subpageLayout.0">
+        <source>Subpage layout</source>
+      </trans-unit>
+      <trans-unit id="tl_page.subpageLayout.1">
+        <source>Here you can select a different layout for subpages.</source>
+      </trans-unit>
       <trans-unit id="tl_page.includeCache.0">
         <source>Set cache timeouts</source>
         <target>キャッシュの有効期間を設定</target>
@@ -572,6 +578,9 @@
       <trans-unit id="tl_page.map_never">
         <source>Show never</source>
         <target>決して表示しない</target>
+      </trans-unit>
+      <trans-unit id="tl_page.layout_inherit">
+        <source>Inherit page layout</source>
       </trans-unit>
       <trans-unit id="tl_page.new.0">
         <source>New</source>
