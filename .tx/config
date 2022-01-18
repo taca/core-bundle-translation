@@ -440,3 +440,8 @@ type = XLIFF
 file_filter = translations/core-bundle.v4_13-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
+
+[core-bundle.v4_13-tl_preview_link]
+file_filter = translations/core-bundle.v4_13-tl_preview_link/<lang>.xlf
+source_lang = en
+type = XLIFF
