@@ -649,6 +649,10 @@
         <source>The following pages have a similar alias that may conflict with this page. If the URL is not resolved correctly, try changing the priority of the routes.</source>
         <target>以下のページに、このページと競合するかもしれない似たようなエイリアスがあります。URLが正しく決定できない場合は、ルートの優先度を変更してみてください。</target>
       </trans-unit>
+      <trans-unit id="tl_page.relCanonical">
+        <source>Enable canonical URLs in the website root page to enable this configuration.</source>
+        <target>この構成を有効にするには、ウェブサイトのルートの基準のURLを有効にしてください。</target>
+      </trans-unit>
       <trans-unit id="CACHE.0">
         <source>0 (do not cache)</source>
         <target>0(キャッシュしない)</target>
