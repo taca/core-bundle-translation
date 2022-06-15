@@ -7,6 +7,7 @@
       </trans-unit>
       <trans-unit id="ERR.submit">
         <source>The data could not be saved because an error occurred!</source>
+        <target>エラーが発生したためデータを保存できませんでした!</target>
       </trans-unit>
       <trans-unit id="ERR.unique">
         <source>This entry already exists!</source>
@@ -50,11 +51,11 @@
       </trans-unit>
       <trans-unit id="ERR.alpha">
         <source>Please enter alphabetic characters only!</source>
-        <target>半角の英文字、マイナス(-)、ドット(.)、スペース( )で入力してください。</target>
+        <target>半角の英文字で入力してください。</target>
       </trans-unit>
       <trans-unit id="ERR.alnum">
         <source>Please enter alphanumeric characters only!</source>
-        <target>半角の英数字、マイナス(-)、ドット(.)、スペース( )で入力してください。</target>
+        <target>半角の英数字で入力してください。</target>
       </trans-unit>
       <trans-unit id="ERR.phone">
         <source>Please enter a valid phone number!</source>
@@ -398,13 +399,15 @@
       </trans-unit>
       <trans-unit id="CTE.html.1">
         <source>Allows you to add custom HTML code.</source>
-        <target>独自のHTMLコードを追加します。</target>
+        <target>独自のHTMLコードを追加できます。</target>
       </trans-unit>
       <trans-unit id="CTE.unfiltered_html.0">
         <source>Unfiltered HTML</source>
+        <target>フィルターしないHTML</target>
       </trans-unit>
       <trans-unit id="CTE.unfiltered_html.1">
         <source>Allows you to add custom, unfiltered HTML code.</source>
+        <target>独自の、フィルターしないHTMLコードを追加できます。</target>
       </trans-unit>
       <trans-unit id="CTE.list.0">
         <source>List</source>
@@ -1012,7 +1015,7 @@
       </trans-unit>
       <trans-unit id="MONTHS.4">
         <source>May</source>
-        <target>5</target>
+        <target>5月</target>
       </trans-unit>
       <trans-unit id="MONTHS.5">
         <source>June</source>
@@ -1356,9 +1359,11 @@
       </trans-unit>
       <trans-unit id="MSC.custom.0">
         <source>Custom dimensions</source>
+        <target>独自の寸法</target>
       </trans-unit>
       <trans-unit id="MSC.custom.1">
         <source>The image will be resized to the given dimensions.</source>
+        <target>指定した寸法に画像の大きさを変更します。</target>
       </trans-unit>
       <trans-unit id="MSC.proportional.0">
         <source>Proportional</source>
@@ -1366,7 +1371,7 @@
       </trans-unit>
       <trans-unit id="MSC.proportional.1">
         <source>The longer side of the image is adjusted to the given dimensions and the image is resized proportionally.</source>
-        <target>画像の長い側を指定した寸法に調整して、画像の縦横比を保持して大きさを変更します。</target>
+        <target>画像の長い側を指定した寸法に調整して、画像の大きさを縦横比を保持して変更します。</target>
       </trans-unit>
       <trans-unit id="MSC.box.0">
         <source>Fit the box</source>
@@ -1374,13 +1379,15 @@
       </trans-unit>
       <trans-unit id="MSC.box.1">
         <source>The shorter side of the image is adjusted to the given dimensions and the image is resized proportionally.</source>
-        <target>画像の短い側を指定した寸法に調整して、画像の縦横比を保持して大きさを変更します。</target>
+        <target>画像の短い側を指定した寸法に調整して、画像の大きさを縦横比を保持して変更します。</target>
       </trans-unit>
       <trans-unit id="MSC.crop.0">
         <source>Crop (important part)</source>
+        <target>切り抜き(重要な部分)</target>
       </trans-unit>
       <trans-unit id="MSC.crop.1">
         <source>Preserves the important part of an image as specified in the file manager. If necessary, the image will be cropped.</source>
+        <target>ファイル管理で指定した重要な部分を維持します。必要であれば、画像を切り抜きます。</target>
       </trans-unit>
       <trans-unit id="MSC.left_top.0">
         <source>Left | Top</source>
@@ -1760,6 +1767,7 @@
       </trans-unit>
       <trans-unit id="MSC.saveNedit">
         <source>Save and edit child elements</source>
+        <target>保存して子の要素を編集</target>
       </trans-unit>
       <trans-unit id="MSC.saveNback">
         <source>Save and go back</source>
@@ -2639,11 +2647,11 @@
       </trans-unit>
       <trans-unit id="MSC.userTemplateEditor">
         <source>There is at least one regular user with access to the template editor. Since templates are PHP files, these users implicitly have full control over the system!</source>
-        <target>テンプレートエディターにアクセス権のあるユーザーが存在します。テンプレートはPHPファイルですので、これらのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
+        <target>テンプレートエディターにアクセス権のある通常ユーザーが存在します。テンプレートはPHPファイルですので、これらのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
       </trans-unit>
       <trans-unit id="MSC.groupTemplateEditor">
         <source>There is at least one user group granting access to the template editor. Since templates are PHP files, users of these groups implicitly have full control over the system!</source>
-        <target>テンプレートエディターにアクセス権のあるグループが存在します。テンプレートはPHPファイルですので、これらのグループのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
+        <target>テンプレートエディターにアクセス権のあるユーザーグループが存在します。テンプレートはPHPファイルですので、これらのグループのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
       </trans-unit>
       <trans-unit id="MSC.userThemeImport">
         <source>There is at least one regular user with permission to import themes. Since themes can contain arbitrary templates and templates are PHP files, these users implicitly have full control over the system!</source>
@@ -2651,17 +2659,19 @@
       </trans-unit>
       <trans-unit id="MSC.groupThemeImport">
         <source>There is at least one user group granting permission to import themes. Since themes can contain arbitrary templates and templates are PHP files, users of these groups implicitly have full control over the system!</source>
-        <target>テーマをインポートする権限を持ったユーザーグループがあります。テーマには任意のテンプレートを含めることができ、テンプレートはPHPファイルなので、これらのグループは暗黙の内にシステム全体を制御できます!</target>
+        <target>テーマをインポートする権限を持ったユーザーグループがあります。テーマには任意のテンプレートを含めることができ、テンプレートはPHPファイルなので、これらのグループのユーザーには暗黙の内にシステムの完全な制御権があります!</target>
       </trans-unit>
       <trans-unit id="MSC.groupListingModule">
         <source>There is at least one user group granting permission to the front end module &quot;Listing&quot; and its &quot;list_*&quot; fields. Since they can contain arbitrary SQL queries, users of these groups implicitly have full control over the system!</source>
-        <target>フロントエンドモジュールの「リスティング」と、その&quot;list_*&quot;の項目にアクセス権のあるユーザーグループが存在します。これらには任意のSQLの問い合わせを含めることができるため、これらのグループのユーザーは暗黙の内にシステム全体に渡る制御権を持っています!</target>
+        <target>フロントエンドモジュールの「リスティング」と、その&quot;list_*&quot;の項目にアクセス権のあるユーザーグループが存在します。これらには任意のSQLの問い合わせを含めることができるため、これらのグループのユーザーには暗黙の内にシステムの完全な制御権があります!</target>
       </trans-unit>
       <trans-unit id="MSC.groupUnfilteredHtml">
         <source>There is at least one user group that grants access to the unfiltered HTML element. Since the HTML code of this element is not filtered, the users of these groups implicitly have full control over the system!</source>
+        <target>フィルターしないHTMLコンテント要素にアクセスを許可したユーザーグループが存在します。このコンテント要素のHTMLコードはフィルターされないので、これらのグループのユーザーには暗黙の内にシステムの完全な制御権があります!</target>
       </trans-unit>
       <trans-unit id="MSC.userUnfilteredHtml">
         <source>There is at least one regular user with access to the unfiltered HTML element. Since the HTML code of that element is not filtered, these users implicitly have full control over the system!</source>
+        <target>フィルターしないHTMLコンテント要素にアクセスできる通常ユーザーが存在します。このコンテント要素のHTMLコードはフィルターされないので、これらのユーザーには暗黙の内にシステムの完全な制御権があります!</target>
       </trans-unit>
       <trans-unit id="MSC.enable">
         <source>Enable</source>
@@ -2913,6 +2923,7 @@
       </trans-unit>
       <trans-unit id="DCA.children">
         <source>Edit the child elements of element ID %s</source>
+        <target>ID %sの要素の子の要素を編集</target>
       </trans-unit>
       <trans-unit id="DCA.toggle">
         <source>Publish/unpublish element ID %s</source>

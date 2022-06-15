@@ -383,9 +383,11 @@
       </trans-unit>
       <trans-unit id="FMD.unfiltered_html.0">
         <source>Unfiltered HTML</source>
+        <target>フィルターしないHTML</target>
       </trans-unit>
       <trans-unit id="FMD.unfiltered_html.1">
         <source>Allows you to add custom, unfiltered HTML code</source>
+        <target>独自の、フィルターしないHTMLコードを追加</target>
       </trans-unit>
       <trans-unit id="FMD.template.0">
         <source>Custom template</source>

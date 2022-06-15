@@ -135,6 +135,7 @@
       </trans-unit>
       <trans-unit id="tl_article.layout_legend">
         <source>Section</source>
+        <target>セクション</target>
       </trans-unit>
       <trans-unit id="tl_article.syndication_legend">
         <source>Syndication</source>
@@ -194,6 +195,7 @@
       </trans-unit>
       <trans-unit id="tl_article.children">
         <source>Edit the content elements of article ID %s</source>
+        <target>ID %sのアーティクルのコンテント要素を編集</target>
       </trans-unit>
       <trans-unit id="tl_article.copy">
         <source>Duplicate article ID %s</source>

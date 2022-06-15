@@ -235,6 +235,7 @@
       </trans-unit>
       <trans-unit id="tl_form.children">
         <source>Edit the form fields of form ID %s</source>
+        <target>ID %sのフォームのフォーム項目を編集</target>
       </trans-unit>
       <trans-unit id="tl_form.copy">
         <source>Duplicate form ID %s</source>

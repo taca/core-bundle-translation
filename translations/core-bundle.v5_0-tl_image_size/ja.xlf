@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="tl_image_size.width.0">
         <source>Width</source>
-        <target>幅(width)</target>
+        <target>幅</target>
       </trans-unit>
       <trans-unit id="tl_image_size.width.1">
         <source>Here you can enter the width in pixels.</source>
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="tl_image_size.height.0">
         <source>Height</source>
-        <target>高さ(height)</target>
+        <target>高さ</target>
       </trans-unit>
       <trans-unit id="tl_image_size.height.1">
         <source>Here you can enter the height in pixels.</source>
@@ -159,6 +159,7 @@
       </trans-unit>
       <trans-unit id="tl_image_size.children">
         <source>Edit the media queries of image size ID %s</source>
+        <target>ID %sの画像サイズのメディアクエリを編集</target>
       </trans-unit>
       <trans-unit id="tl_image_size.cut">
         <source>Move image size ID %s</source>

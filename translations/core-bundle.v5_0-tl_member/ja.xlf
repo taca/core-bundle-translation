@@ -227,6 +227,7 @@
       </trans-unit>
       <trans-unit id="tl_member.personalDetails">
         <source>Personal details</source>
+        <target>詳細な個人情報</target>
       </trans-unit>
       <trans-unit id="tl_member.addressDetails">
         <source>Address details</source>
