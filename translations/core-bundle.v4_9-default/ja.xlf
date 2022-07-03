@@ -321,6 +321,10 @@
         <source>Unknown username: %s</source>
         <target>不明なユーザー名: %s</target>
       </trans-unit>
+      <trans-unit id="ERR.versionNotRestored">
+        <source>Version %d could not be restored because it is no longer compatible with the current database structure. Please restore the data manually.</source>
+        <target>バージョン%dは現在のデータベース構造と互換性がなくなっているため復元できませんでした。手動でデータを復元してください。</target>
+      </trans-unit>
       <trans-unit id="SEC.question1">
         <source>Please add %d and %d.</source>
         <target>%dと%dを加算してください。</target>
