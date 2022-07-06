@@ -34,12 +34,12 @@
         <target>テーマ、フロントエンドモジュール、ページのレイアウト、画像サイズを管理</target>
       </trans-unit>
       <trans-unit id="MOD.page.0">
-        <source>Site structure</source>
-        <target>サイト構造</target>
+        <source>Pages</source>
+        <target>ページ</target>
       </trans-unit>
       <trans-unit id="MOD.page.1">
-        <source>Set up the site structure of your website(s)</source>
-        <target>ウェブサイトのサイト構造を設定</target>
+        <source>Set up the pages of your website(s)</source>
+        <target>ウェブサイトのページを設定します。</target>
       </trans-unit>
       <trans-unit id="MOD.tpl_editor.0">
         <source>Templates</source>
@@ -98,8 +98,8 @@
         <target>システム</target>
       </trans-unit>
       <trans-unit id="MOD.files.0">
-        <source>File manager</source>
-        <target>ファイル管理</target>
+        <source>Files</source>
+        <target>ファイル</target>
       </trans-unit>
       <trans-unit id="MOD.files.1">
         <source>Manage files and folders</source>
@@ -214,8 +214,8 @@
         <target>ナビゲーションメニュー</target>
       </trans-unit>
       <trans-unit id="FMD.navigation.1">
-        <source>Generates a navigation menu from the site structure</source>
-        <target>サイト構造からナビゲーションメニューを生成</target>
+        <source>Generates a navigation menu from the pages</source>
+        <target>ページからナビゲーションメニューを生成</target>
       </trans-unit>
       <trans-unit id="FMD.customnav.0">
         <source>Custom navigation</source>
@@ -238,8 +238,8 @@
         <target>クイックナビゲーション</target>
       </trans-unit>
       <trans-unit id="FMD.quicknav.1">
-        <source>Generates a drop-down menu from the site structure</source>
-        <target>サイト構造からドロップダウンメニューを生成</target>
+        <source>Generates a drop-down menu from the pages</source>
+        <target>ページからドロップダウンメニューを生成</target>
       </trans-unit>
       <trans-unit id="FMD.quicklink.0">
         <source>Quick link</source>
@@ -270,8 +270,8 @@
         <target>HTMLのサイトマップ</target>
       </trans-unit>
       <trans-unit id="FMD.sitemap.1">
-        <source>Generates a list of all pages in the site structure</source>
-        <target>サイト構造のすべてのページのリストを生成</target>
+        <source>Generates a list of all pages</source>
+        <target>すべてのページの一覧を生成</target>
       </trans-unit>
       <trans-unit id="FMD.user">
         <source>User</source>
@@ -415,11 +415,11 @@
       </trans-unit>
       <trans-unit id="FMD.root_page_dependent_modules.0">
         <source>Root page dependent modules</source>
-        <target>ルートページに依存するモジュール</target>
+        <target>ルートページに応じたモジュール</target>
       </trans-unit>
       <trans-unit id="FMD.root_page_dependent_modules.1">
-        <source>Generates different modules depending on the root page</source>
-        <target>ルートページに依存する異なるモジュールを生成</target>
+        <source>Generates different modules depending on the website root page</source>
+        <target>ウェブサイトのルートのページに応じた異なるモジュールを生成</target>
       </trans-unit>
     </body>
   </file>

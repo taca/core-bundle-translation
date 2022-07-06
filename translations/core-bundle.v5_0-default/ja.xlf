@@ -190,8 +190,8 @@
         <target>数字だけのエイリアスはサポートしていません!</target>
       </trans-unit>
       <trans-unit id="ERR.urlPrefixExists">
-        <source>The URL prefix &quot;%s&quot; is already used by another root page with the same domain name!</source>
-        <target>&quot;%s&quot;というURLプリフィックスは既に同じドメイン名の別のルートページで使用されています!</target>
+        <source>The URL prefix &quot;%s&quot; is already used by another website root page with the same domain name!</source>
+        <target>&quot;%s&quot;というURLプリフィックスは同じドメイン名の別のウェブサイトのルートで既に使用しています!</target>
       </trans-unit>
       <trans-unit id="ERR.pageUrlExists">
         <source>A page with the URL &quot;%s&quot; already exists!</source>
@@ -278,8 +278,8 @@
         <target>最上位のページはウェブサイトのルートでなければなりません。</target>
       </trans-unit>
       <trans-unit id="ERR.topLevelRegular">
-        <source>There are top-level pages in the site structure which are not website root pages.</source>
-        <target>サイト構造の最上位のページにウェブサイトのルートでないページがあります。</target>
+        <source>There are top-level pages which are not website root pages.</source>
+        <target>ウェブサイトのルートのページではない最上位のページがあります。</target>
       </trans-unit>
       <trans-unit id="ERR.form">
         <source>The form could not be sent</source>
@@ -356,6 +356,10 @@
       <trans-unit id="ERR.previewSwitchInvalidUsername">
         <source>Unknown username: %s</source>
         <target>不明なユーザー名: %s</target>
+      </trans-unit>
+      <trans-unit id="ERR.versionNotRestored">
+        <source>Version %d could not be restored because it is no longer compatible with the current database structure. Please restore the data manually.</source>
+        <target>バージョン%dは現在のデータベース構造と互換性がなくなっているため復元できませんでした。手動でデータを復元してください。</target>
       </trans-unit>
       <trans-unit id="SEC.question1">
         <source>Please add %d and %d.</source>
@@ -759,23 +763,23 @@
       </trans-unit>
       <trans-unit id="PTY.redirect.1">
         <source>This type of page automatically redirects visitors to an external website. It works like a hyperlink.</source>
-        <target>外部リダイレクトのページは、ページをアクセスすると外部のウェブサイトに自動的にリダイレクトします。ハイパーリンクのように機能します。</target>
+        <target>この種類のページはアクセスすると外部のウェブサイトに自動的にリダイレクトします。ハイパーリンクのように機能します。</target>
       </trans-unit>
       <trans-unit id="PTY.forward.0">
         <source>Internal redirect</source>
         <target>内部リダイレクト</target>
       </trans-unit>
       <trans-unit id="PTY.forward.1">
-        <source>This type of page automatically forwards visitors to another page within the site structure.</source>
-        <target>内部リダイレクトのページは、ページをアクセスするとサイト構造内の別のページに自動的に移動します。</target>
+        <source>This type of page automatically forwards visitors to another page.</source>
+        <target>この種類のページはアクセスすると別のページに自動的に移動します。</target>
       </trans-unit>
       <trans-unit id="PTY.root.0">
         <source>Website root</source>
         <target>ウェブサイトのルート</target>
       </trans-unit>
       <trans-unit id="PTY.root.1">
-        <source>This type of page marks the starting point of a new website within the site structure.</source>
-        <target>ウェブサイトのルートのページは、サイト構造内で新しいウェブサイトの開始点を示します。</target>
+        <source>This type of page marks the starting point of a new website.</source>
+        <target>この種類のページは新しいウェブサイトの開始点です。</target>
       </trans-unit>
       <trans-unit id="PTY.logout.0">
         <source>Logout</source>
@@ -814,8 +818,8 @@
         <target>503 サービスの利用不可</target>
       </trans-unit>
       <trans-unit id="PTY.error_503.1">
-        <source>When a root page is in maintenance mode, a 503 error page is displayed for all requests.</source>
-        <target>ルートのページが保守モードのとき、503のエラーページをすべてのリクエストに表示します。</target>
+        <source>When a website root page is in maintenance mode, all requests will show a 503 error page.</source>
+        <target>ウェブサイトのページが保守モードのときは、すべての要求に対して503のエラーページを表示します。</target>
       </trans-unit>
       <trans-unit id="FOP.fop.0">
         <source>File operation permissions</source>
@@ -2542,8 +2546,8 @@
         <target>%sをダウンロード</target>
       </trans-unit>
       <trans-unit id="MSC.metaNoLanguages">
-        <source>You have to add a root page in the site structure to enter file metadata.</source>
-        <target>ファイルのメタデータを入力するにはサイト構造でルートのページを追加しなければなりません。</target>
+        <source>You have to add a website root page to enter file metadata.</source>
+        <target>ファイルのメタデータを入力するにはウェブサイトのルートを追加しなければなりません。</target>
       </trans-unit>
       <trans-unit id="MSC.breadcrumbMenu">
         <source>Breadcrumb menu</source>

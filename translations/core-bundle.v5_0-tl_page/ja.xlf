@@ -254,8 +254,8 @@
         <target>URLのプリフィックス</target>
       </trans-unit>
       <trans-unit id="tl_page.urlPrefix.1">
-        <source>Enter a URL prefix (e.g. the language) that will be prepended to aliases for this root page.</source>
-        <target>このルートページでエイリアスの先頭に付加するURLのプリフィックス(例えば言語)を入力してください。</target>
+        <source>Enter a URL prefix (e.g. the language) that will be prepended to all page aliases below this website root page.</source>
+        <target>このウェブサイトのルートの下のすべてのページのエイリアスの先頭に追加するURLのプリフィックス(例えば、言語)を入力してください。</target>
       </trans-unit>
       <trans-unit id="tl_page.urlSuffix.0">
         <source>URL suffix</source>
@@ -620,10 +620,6 @@
       <trans-unit id="tl_page.articles">
         <source>Edit the articles of page ID %s</source>
         <target>ID %sのページのアーティクルを編集</target>
-      </trans-unit>
-      <trans-unit id="tl_page.legacyRouting">
-        <source>Disable legacy routing mode to enable this configuration.</source>
-        <target>古いルーティング方式を無効にして、この構成を有効にします。</target>
       </trans-unit>
       <trans-unit id="tl_page.routeConflicts.0">
         <source>Route conflicts</source>

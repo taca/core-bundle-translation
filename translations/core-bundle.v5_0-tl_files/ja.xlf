@@ -78,8 +78,8 @@
         <target>メタデータ</target>
       </trans-unit>
       <trans-unit id="tl_files.meta.1">
-        <source>Here you can enter the file metadata. To add a language, create a matching root page in the site structure.</source>
-        <target>ファイルのメタデータを入力できます。言語を追加するには、サイト構造で合致するルートのページを作成してください。</target>
+        <source>Here you can enter the file metadata. To add a language, create a matching website root page.</source>
+        <target>ファイルのメタデータを入力できます。言語を追加するには、合致するウェブサイトのルートを作成してください。</target>
       </trans-unit>
       <trans-unit id="tl_files.metaRgxpError">
         <source>Field &quot;%s&quot; for language &quot;%s&quot; must match &quot;%s&quot;.</source>

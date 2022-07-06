@@ -67,11 +67,11 @@
       </trans-unit>
       <trans-unit id="tl_module.rootPage.0">
         <source>Reference page</source>
-        <target>基準とするページ</target>
+        <target>参照するページ</target>
       </trans-unit>
       <trans-unit id="tl_module.rootPage.1">
-        <source>Please choose the reference page from the site structure.</source>
-        <target>サイト構造から基準とするページを選択してください。</target>
+        <source>Please choose the reference page.</source>
+        <target>参照するページを選択してください。</target>
       </trans-unit>
       <trans-unit id="tl_module.navigationTpl.0">
         <source>Navigation template</source>
@@ -94,8 +94,8 @@
         <target>ページ</target>
       </trans-unit>
       <trans-unit id="tl_module.pages.1">
-        <source>Please choose one or more pages from the site structure.</source>
-        <target>サイト構造からページを1つ以上選択してください。</target>
+        <source>Please choose one or more pages.</source>
+        <target>1つ以上のページを選択してください。</target>
       </trans-unit>
       <trans-unit id="tl_module.showHidden.0">
         <source>Show hidden items</source>
@@ -502,8 +502,8 @@
         <target>モジュール</target>
       </trans-unit>
       <trans-unit id="tl_module.rootPageDependentModules.1">
-        <source>Please select a module for every root page.</source>
-        <target>すべてのルートページ用のモジュールを選択してください。</target>
+        <source>Please select a module for every website root page.</source>
+        <target>すべてのウェブサイトのルートのページのモジュールを選択してください。</target>
       </trans-unit>
       <trans-unit id="tl_module.rootPageDependentModulesBlankOptionLabel">
         <source>Choose module for &quot;%s&quot;</source>

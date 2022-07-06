@@ -54,8 +54,8 @@
         <target>メタデータを上書き</target>
       </trans-unit>
       <trans-unit id="tl_content.overwriteMeta.1">
-        <source>Overwrite the metadata from the file manager.</source>
-        <target>ファイル管理のメタデータを上書きします。</target>
+        <source>Overwrite the metadata of the file.</source>
+        <target>ファイルのメタデータを上書きします。</target>
       </trans-unit>
       <trans-unit id="tl_content.singleSRC.0">
         <source>Source file</source>
