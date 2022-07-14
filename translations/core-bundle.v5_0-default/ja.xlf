@@ -2757,6 +2757,18 @@
         <source>Manual</source>
         <target>マニュアル</target>
       </trans-unit>
+      <trans-unit id="MSC.draft">
+        <source>Draft</source>
+        <target>下書き</target>
+      </trans-unit>
+      <trans-unit id="MSC.splashScreen">
+        <source>Please click to load the video.</source>
+        <target>動画を読み込むにはクリックしてください。</target>
+      </trans-unit>
+      <trans-unit id="MSC.dataTransmission">
+        <source>Your IP address will be transmitted to %s.</source>
+        <target>%sにあなたのIPアドレスを送信します。</target>
+      </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>
         <target>Byte</target>
