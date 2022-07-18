@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><xliff version="1.1">
-  <file datatype="php" original="src/Resources/contao/languages/en/default.php" source-language="en" target-language="ja">
+  <file datatype="php" original="contao/languages/en/default.php" source-language="en" target-language="ja">
     <body>
       <trans-unit id="ERR.general">
         <source>An error occurred!</source>
@@ -360,6 +360,10 @@
       <trans-unit id="ERR.versionNotRestored">
         <source>Version %d could not be restored because it is no longer compatible with the current database structure. Please restore the data manually.</source>
         <target>バージョン%dは現在のデータベース構造と互換性がなくなっているため復元できませんでした。手動でデータを復元してください。</target>
+      </trans-unit>
+      <trans-unit id="ERR.startStop">
+        <source>The end time must be later than the start time.</source>
+        <target>終了時刻は開始時刻よりも後でなければなりません。</target>
       </trans-unit>
       <trans-unit id="SEC.question1">
         <source>Please add %d and %d.</source>
@@ -2768,6 +2772,18 @@
       <trans-unit id="MSC.dataTransmission">
         <source>Your IP address will be transmitted to %s.</source>
         <target>%sにあなたのIPアドレスを送信します。</target>
+      </trans-unit>
+      <trans-unit id="MSC.showFrom">
+        <source>visible from %s</source>
+        <target>%sから表示</target>
+      </trans-unit>
+      <trans-unit id="MSC.showTo">
+        <source>visible until %s</source>
+        <target>%sまで表示</target>
+      </trans-unit>
+      <trans-unit id="MSC.showFromTo">
+        <source>visible from %s to %s</source>
+        <target>%sから%sまで表示</target>
       </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>
