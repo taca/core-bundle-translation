@@ -2769,10 +2769,6 @@
         <source>Manual</source>
         <target>マニュアル</target>
       </trans-unit>
-      <trans-unit id="MSC.draft">
-        <source>Draft</source>
-        <target>下書き</target>
-      </trans-unit>
       <trans-unit id="UNITS.0">
         <source>Byte</source>
         <target>Byte</target>
