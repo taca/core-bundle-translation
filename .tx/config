@@ -430,3 +430,138 @@ type = XLIFF
 file_filter = translations/core-bundle.v5_0-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
+
+[core-bundle.v5_1-default]
+file_filter = translations/core-bundle.v5_1-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-exception]
+file_filter = translations/core-bundle.v5_1-exception/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-explain]
+file_filter = translations/core-bundle.v5_1-explain/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-modules]
+file_filter = translations/core-bundle.v5_1-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_article]
+file_filter = translations/core-bundle.v5_1-tl_article/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_content]
+file_filter = translations/core-bundle.v5_1-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_files]
+file_filter = translations/core-bundle.v5_1-tl_files/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_form]
+file_filter = translations/core-bundle.v5_1-tl_form/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_form_field]
+file_filter = translations/core-bundle.v5_1-tl_form_field/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_image_size]
+file_filter = translations/core-bundle.v5_1-tl_image_size/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_image_size_item]
+file_filter = translations/core-bundle.v5_1-tl_image_size_item/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_layout]
+file_filter = translations/core-bundle.v5_1-tl_layout/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_log]
+file_filter = translations/core-bundle.v5_1-tl_log/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_maintenance]
+file_filter = translations/core-bundle.v5_1-tl_maintenance/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_member]
+file_filter = translations/core-bundle.v5_1-tl_member/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_member_group]
+file_filter = translations/core-bundle.v5_1-tl_member_group/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_module]
+file_filter = translations/core-bundle.v5_1-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_opt_in]
+file_filter = translations/core-bundle.v5_1-tl_opt_in/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_opt_in_related]
+file_filter = translations/core-bundle.v5_1-tl_opt_in_related/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_page]
+file_filter = translations/core-bundle.v5_1-tl_page/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_preview_link]
+file_filter = translations/core-bundle.v5_1-tl_preview_link/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_settings]
+file_filter = translations/core-bundle.v5_1-tl_settings/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_templates]
+file_filter = translations/core-bundle.v5_1-tl_templates/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_theme]
+file_filter = translations/core-bundle.v5_1-tl_theme/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_undo]
+file_filter = translations/core-bundle.v5_1-tl_undo/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_user]
+file_filter = translations/core-bundle.v5_1-tl_user/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[core-bundle.v5_1-tl_user_group]
+file_filter = translations/core-bundle.v5_1-tl_user_group/<lang>.xlf
+source_lang = en
+type = XLIFF
