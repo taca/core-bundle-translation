@@ -2131,9 +2131,11 @@
       </trans-unit>
       <trans-unit id="MSC.versionA">
         <source>Version A</source>
+        <target>バージョンA</target>
       </trans-unit>
       <trans-unit id="MSC.versionB">
         <source>Version B</source>
+        <target>バージョンB</target>
       </trans-unit>
       <trans-unit id="MSC.restore">
         <source>Restore</source>
@@ -3101,10 +3103,11 @@
       </trans-unit>
       <trans-unit id="MSC.passkeysName">
         <source>Name/ID</source>
-        <target>名前・ID</target>
+        <target>名前またはID</target>
       </trans-unit>
       <trans-unit id="MSC.passkeyNameInput">
         <source>Name this passkey</source>
+        <target>このパスキーに名前を設定</target>
       </trans-unit>
       <trans-unit id="MSC.passkeysCreatedAt">
         <source>Created at</source>

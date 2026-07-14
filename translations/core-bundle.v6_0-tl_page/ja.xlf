@@ -739,9 +739,11 @@
       </trans-unit>
       <trans-unit id="tl_page.primaryImage.0">
         <source>Page image</source>
+        <target>ページの画像</target>
       </trans-unit>
       <trans-unit id="tl_page.primaryImage.1">
         <source>Here you can select an image for the page.</source>
+        <target>このページの画像を選択できます。</target>
       </trans-unit>
       <trans-unit id="CACHE.0">
         <source>0 (do not cache)</source>
