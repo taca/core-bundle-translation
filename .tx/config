@@ -1,567 +1,699 @@
 [main]
 host = https://www.transifex.com
 
-[core-bundle.v4_9-countries]
-file_filter = translations/core-bundle.v4_9-countries/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-default]
-file_filter = translations/core-bundle.v4_9-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-exception]
-file_filter = translations/core-bundle.v4_9-exception/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-explain]
-file_filter = translations/core-bundle.v4_9-explain/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-languages]
-file_filter = translations/core-bundle.v4_9-languages/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-modules]
-file_filter = translations/core-bundle.v4_9-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_article]
-file_filter = translations/core-bundle.v4_9-tl_article/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_content]
-file_filter = translations/core-bundle.v4_9-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_files]
-file_filter = translations/core-bundle.v4_9-tl_files/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_form]
-file_filter = translations/core-bundle.v4_9-tl_form/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_form_field]
-file_filter = translations/core-bundle.v4_9-tl_form_field/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_image_size]
-file_filter = translations/core-bundle.v4_9-tl_image_size/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_image_size_item]
-file_filter = translations/core-bundle.v4_9-tl_image_size_item/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_layout]
-file_filter = translations/core-bundle.v4_9-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_log]
-file_filter = translations/core-bundle.v4_9-tl_log/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_maintenance]
-file_filter = translations/core-bundle.v4_9-tl_maintenance/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_member]
-file_filter = translations/core-bundle.v4_9-tl_member/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_member_group]
-file_filter = translations/core-bundle.v4_9-tl_member_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_module]
-file_filter = translations/core-bundle.v4_9-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_opt_in]
-file_filter = translations/core-bundle.v4_9-tl_opt_in/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_opt_in_related]
-file_filter = translations/core-bundle.v4_9-tl_opt_in_related/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_page]
-file_filter = translations/core-bundle.v4_9-tl_page/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_settings]
-file_filter = translations/core-bundle.v4_9-tl_settings/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_style]
-file_filter = translations/core-bundle.v4_9-tl_style/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_style_sheet]
-file_filter = translations/core-bundle.v4_9-tl_style_sheet/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_templates]
-file_filter = translations/core-bundle.v4_9-tl_templates/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_theme]
-file_filter = translations/core-bundle.v4_9-tl_theme/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_undo]
-file_filter = translations/core-bundle.v4_9-tl_undo/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_user]
-file_filter = translations/core-bundle.v4_9-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_9-tl_user_group]
-file_filter = translations/core-bundle.v4_9-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-default]
-file_filter = translations/core-bundle.v4_13-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-exception]
-file_filter = translations/core-bundle.v4_13-exception/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-explain]
-file_filter = translations/core-bundle.v4_13-explain/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-modules]
-file_filter = translations/core-bundle.v4_13-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_article]
-file_filter = translations/core-bundle.v4_13-tl_article/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_content]
-file_filter = translations/core-bundle.v4_13-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_files]
-file_filter = translations/core-bundle.v4_13-tl_files/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_form]
-file_filter = translations/core-bundle.v4_13-tl_form/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_form_field]
-file_filter = translations/core-bundle.v4_13-tl_form_field/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_image_size]
-file_filter = translations/core-bundle.v4_13-tl_image_size/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_image_size_item]
-file_filter = translations/core-bundle.v4_13-tl_image_size_item/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_layout]
-file_filter = translations/core-bundle.v4_13-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_log]
-file_filter = translations/core-bundle.v4_13-tl_log/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_maintenance]
-file_filter = translations/core-bundle.v4_13-tl_maintenance/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_member]
-file_filter = translations/core-bundle.v4_13-tl_member/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_member_group]
-file_filter = translations/core-bundle.v4_13-tl_member_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_module]
-file_filter = translations/core-bundle.v4_13-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_opt_in]
-file_filter = translations/core-bundle.v4_13-tl_opt_in/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_opt_in_related]
-file_filter = translations/core-bundle.v4_13-tl_opt_in_related/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_page]
-file_filter = translations/core-bundle.v4_13-tl_page/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_settings]
-file_filter = translations/core-bundle.v4_13-tl_settings/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_style]
-file_filter = translations/core-bundle.v4_13-tl_style/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_style_sheet]
-file_filter = translations/core-bundle.v4_13-tl_style_sheet/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_templates]
-file_filter = translations/core-bundle.v4_13-tl_templates/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_theme]
-file_filter = translations/core-bundle.v4_13-tl_theme/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_undo]
-file_filter = translations/core-bundle.v4_13-tl_undo/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_user]
-file_filter = translations/core-bundle.v4_13-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_user_group]
-file_filter = translations/core-bundle.v4_13-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v4_13-tl_preview_link]
-file_filter = translations/core-bundle.v4_13-tl_preview_link/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-default]
-file_filter = translations/core-bundle.v5_0-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-exception]
-file_filter = translations/core-bundle.v5_0-exception/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-explain]
-file_filter = translations/core-bundle.v5_0-explain/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-modules]
-file_filter = translations/core-bundle.v5_0-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_article]
-file_filter = translations/core-bundle.v5_0-tl_article/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_content]
-file_filter = translations/core-bundle.v5_0-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_files]
-file_filter = translations/core-bundle.v5_0-tl_files/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_form]
-file_filter = translations/core-bundle.v5_0-tl_form/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_form_field]
-file_filter = translations/core-bundle.v5_0-tl_form_field/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_image_size]
-file_filter = translations/core-bundle.v5_0-tl_image_size/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_image_size_item]
-file_filter = translations/core-bundle.v5_0-tl_image_size_item/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_layout]
-file_filter = translations/core-bundle.v5_0-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_log]
-file_filter = translations/core-bundle.v5_0-tl_log/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_maintenance]
-file_filter = translations/core-bundle.v5_0-tl_maintenance/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_member]
-file_filter = translations/core-bundle.v5_0-tl_member/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_member_group]
-file_filter = translations/core-bundle.v5_0-tl_member_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_module]
-file_filter = translations/core-bundle.v5_0-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_opt_in]
-file_filter = translations/core-bundle.v5_0-tl_opt_in/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_opt_in_related]
-file_filter = translations/core-bundle.v5_0-tl_opt_in_related/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_page]
-file_filter = translations/core-bundle.v5_0-tl_page/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_preview_link]
-file_filter = translations/core-bundle.v5_0-tl_preview_link/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_settings]
-file_filter = translations/core-bundle.v5_0-tl_settings/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_templates]
-file_filter = translations/core-bundle.v5_0-tl_templates/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_theme]
-file_filter = translations/core-bundle.v5_0-tl_theme/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_undo]
-file_filter = translations/core-bundle.v5_0-tl_undo/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_user]
-file_filter = translations/core-bundle.v5_0-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_0-tl_user_group]
-file_filter = translations/core-bundle.v5_0-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-default]
-file_filter = translations/core-bundle.v5_1-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-exception]
-file_filter = translations/core-bundle.v5_1-exception/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-explain]
-file_filter = translations/core-bundle.v5_1-explain/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-modules]
-file_filter = translations/core-bundle.v5_1-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_article]
-file_filter = translations/core-bundle.v5_1-tl_article/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_content]
-file_filter = translations/core-bundle.v5_1-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_files]
-file_filter = translations/core-bundle.v5_1-tl_files/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_form]
-file_filter = translations/core-bundle.v5_1-tl_form/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_form_field]
-file_filter = translations/core-bundle.v5_1-tl_form_field/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_image_size]
-file_filter = translations/core-bundle.v5_1-tl_image_size/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_image_size_item]
-file_filter = translations/core-bundle.v5_1-tl_image_size_item/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_layout]
-file_filter = translations/core-bundle.v5_1-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_log]
-file_filter = translations/core-bundle.v5_1-tl_log/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_maintenance]
-file_filter = translations/core-bundle.v5_1-tl_maintenance/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_member]
-file_filter = translations/core-bundle.v5_1-tl_member/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_member_group]
-file_filter = translations/core-bundle.v5_1-tl_member_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_module]
-file_filter = translations/core-bundle.v5_1-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_opt_in]
-file_filter = translations/core-bundle.v5_1-tl_opt_in/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_opt_in_related]
-file_filter = translations/core-bundle.v5_1-tl_opt_in_related/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_page]
-file_filter = translations/core-bundle.v5_1-tl_page/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_preview_link]
-file_filter = translations/core-bundle.v5_1-tl_preview_link/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_settings]
-file_filter = translations/core-bundle.v5_1-tl_settings/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_templates]
-file_filter = translations/core-bundle.v5_1-tl_templates/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_theme]
-file_filter = translations/core-bundle.v5_1-tl_theme/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_undo]
-file_filter = translations/core-bundle.v5_1-tl_undo/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_user]
-file_filter = translations/core-bundle.v5_1-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[core-bundle.v5_1-tl_user_group]
-file_filter = translations/core-bundle.v5_1-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:core-bundle:r:v4_13-default]
+file_filter            = translations/core-bundle.v4_13-default/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-default/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-exception]
+file_filter            = translations/core-bundle.v4_13-exception/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-exception/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-explain]
+file_filter            = translations/core-bundle.v4_13-explain/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-explain/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-modules]
+file_filter            = translations/core-bundle.v4_13-modules/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-modules/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_article]
+file_filter            = translations/core-bundle.v4_13-tl_article/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_article/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_content]
+file_filter            = translations/core-bundle.v4_13-tl_content/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_content/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_files]
+file_filter            = translations/core-bundle.v4_13-tl_files/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_files/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_form]
+file_filter            = translations/core-bundle.v4_13-tl_form/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_form/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_form_field]
+file_filter            = translations/core-bundle.v4_13-tl_form_field/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_form_field/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_image_size]
+file_filter            = translations/core-bundle.v4_13-tl_image_size/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_image_size/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_image_size_item]
+file_filter            = translations/core-bundle.v4_13-tl_image_size_item/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_image_size_item/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_layout]
+file_filter            = translations/core-bundle.v4_13-tl_layout/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_layout/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_log]
+file_filter            = translations/core-bundle.v4_13-tl_log/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_log/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_maintenance]
+file_filter            = translations/core-bundle.v4_13-tl_maintenance/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_maintenance/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_member]
+file_filter            = translations/core-bundle.v4_13-tl_member/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_member/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_member_group]
+file_filter            = translations/core-bundle.v4_13-tl_member_group/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_member_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_module]
+file_filter            = translations/core-bundle.v4_13-tl_module/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_module/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_opt_in]
+file_filter            = translations/core-bundle.v4_13-tl_opt_in/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_opt_in/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_opt_in_related]
+file_filter            = translations/core-bundle.v4_13-tl_opt_in_related/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_opt_in_related/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_page]
+file_filter            = translations/core-bundle.v4_13-tl_page/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_page/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_preview_link]
+file_filter            = translations/core-bundle.v4_13-tl_preview_link/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_preview_link/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_settings]
+file_filter            = translations/core-bundle.v4_13-tl_settings/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_settings/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_style]
+file_filter            = translations/core-bundle.v4_13-tl_style/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_style/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_style_sheet]
+file_filter            = translations/core-bundle.v4_13-tl_style_sheet/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_style_sheet/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_templates]
+file_filter            = translations/core-bundle.v4_13-tl_templates/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_templates/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_theme]
+file_filter            = translations/core-bundle.v4_13-tl_theme/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_theme/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_undo]
+file_filter            = translations/core-bundle.v4_13-tl_undo/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_undo/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_user]
+file_filter            = translations/core-bundle.v4_13-tl_user/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_user/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v4_13-tl_user_group]
+file_filter            = translations/core-bundle.v4_13-tl_user_group/<lang>.xlf
+source_file            = translations/core-bundle.v4_13-tl_user_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-default]
+file_filter            = translations/core-bundle.v5_3-default/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-default/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-exception]
+file_filter            = translations/core-bundle.v5_3-exception/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-exception/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-explain]
+file_filter            = translations/core-bundle.v5_3-explain/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-explain/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-modules]
+file_filter            = translations/core-bundle.v5_3-modules/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-modules/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_article]
+file_filter            = translations/core-bundle.v5_3-tl_article/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_article/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_content]
+file_filter            = translations/core-bundle.v5_3-tl_content/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_content/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_favorites]
+file_filter            = translations/core-bundle.v5_3-tl_favorites/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_favorites/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_files]
+file_filter            = translations/core-bundle.v5_3-tl_files/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_files/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_form]
+file_filter            = translations/core-bundle.v5_3-tl_form/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_form/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_form_field]
+file_filter            = translations/core-bundle.v5_3-tl_form_field/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_form_field/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_image_size]
+file_filter            = translations/core-bundle.v5_3-tl_image_size/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_image_size/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_image_size_item]
+file_filter            = translations/core-bundle.v5_3-tl_image_size_item/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_image_size_item/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_layout]
+file_filter            = translations/core-bundle.v5_3-tl_layout/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_layout/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_log]
+file_filter            = translations/core-bundle.v5_3-tl_log/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_log/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_maintenance]
+file_filter            = translations/core-bundle.v5_3-tl_maintenance/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_maintenance/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_member]
+file_filter            = translations/core-bundle.v5_3-tl_member/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_member/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_member_group]
+file_filter            = translations/core-bundle.v5_3-tl_member_group/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_member_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_module]
+file_filter            = translations/core-bundle.v5_3-tl_module/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_module/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_opt_in]
+file_filter            = translations/core-bundle.v5_3-tl_opt_in/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_opt_in/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_opt_in_related]
+file_filter            = translations/core-bundle.v5_3-tl_opt_in_related/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_opt_in_related/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_page]
+file_filter            = translations/core-bundle.v5_3-tl_page/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_page/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_preview_link]
+file_filter            = translations/core-bundle.v5_3-tl_preview_link/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_preview_link/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_settings]
+file_filter            = translations/core-bundle.v5_3-tl_settings/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_settings/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_templates]
+file_filter            = translations/core-bundle.v5_3-tl_templates/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_templates/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_theme]
+file_filter            = translations/core-bundle.v5_3-tl_theme/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_theme/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_undo]
+file_filter            = translations/core-bundle.v5_3-tl_undo/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_undo/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_user]
+file_filter            = translations/core-bundle.v5_3-tl_user/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_user/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_3-tl_user_group]
+file_filter            = translations/core-bundle.v5_3-tl_user_group/<lang>.xlf
+source_file            = translations/core-bundle.v5_3-tl_user_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-default]
+file_filter            = translations/core-bundle.v5_7-default/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-default/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-exception]
+file_filter            = translations/core-bundle.v5_7-exception/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-exception/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-explain]
+file_filter            = translations/core-bundle.v5_7-explain/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-explain/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-jobs]
+file_filter            = translations/core-bundle.v5_7-jobs/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-jobs/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-modules]
+file_filter            = translations/core-bundle.v5_7-modules/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-modules/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-template_studio]
+file_filter            = translations/core-bundle.v5_7-template_studio/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-template_studio/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_article]
+file_filter            = translations/core-bundle.v5_7-tl_article/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_article/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_content]
+file_filter            = translations/core-bundle.v5_7-tl_content/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_content/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_favorites]
+file_filter            = translations/core-bundle.v5_7-tl_favorites/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_favorites/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_files]
+file_filter            = translations/core-bundle.v5_7-tl_files/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_files/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_form]
+file_filter            = translations/core-bundle.v5_7-tl_form/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_form/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_form_field]
+file_filter            = translations/core-bundle.v5_7-tl_form_field/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_form_field/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_image_size]
+file_filter            = translations/core-bundle.v5_7-tl_image_size/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_image_size/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_image_size_item]
+file_filter            = translations/core-bundle.v5_7-tl_image_size_item/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_image_size_item/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_layout]
+file_filter            = translations/core-bundle.v5_7-tl_layout/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_layout/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_log]
+file_filter            = translations/core-bundle.v5_7-tl_log/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_log/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_maintenance]
+file_filter            = translations/core-bundle.v5_7-tl_maintenance/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_maintenance/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_member]
+file_filter            = translations/core-bundle.v5_7-tl_member/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_member/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_member_group]
+file_filter            = translations/core-bundle.v5_7-tl_member_group/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_member_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_module]
+file_filter            = translations/core-bundle.v5_7-tl_module/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_module/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_opt_in]
+file_filter            = translations/core-bundle.v5_7-tl_opt_in/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_opt_in/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_opt_in_related]
+file_filter            = translations/core-bundle.v5_7-tl_opt_in_related/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_opt_in_related/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_page]
+file_filter            = translations/core-bundle.v5_7-tl_page/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_page/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_preview_link]
+file_filter            = translations/core-bundle.v5_7-tl_preview_link/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_preview_link/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_settings]
+file_filter            = translations/core-bundle.v5_7-tl_settings/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_settings/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_templates]
+file_filter            = translations/core-bundle.v5_7-tl_templates/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_templates/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_theme]
+file_filter            = translations/core-bundle.v5_7-tl_theme/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_theme/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_undo]
+file_filter            = translations/core-bundle.v5_7-tl_undo/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_undo/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_user]
+file_filter            = translations/core-bundle.v5_7-tl_user/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_user/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
+[o:contao:p:core-bundle:r:v5_7-tl_user_group]
+file_filter            = translations/core-bundle.v5_7-tl_user_group/<lang>.xlf
+source_file            = translations/core-bundle.v5_7-tl_user_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
+
