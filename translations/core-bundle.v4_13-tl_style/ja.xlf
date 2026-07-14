@@ -46,7 +46,7 @@
         <target>幅(width)</target>
       </trans-unit>
       <trans-unit id="tl_style.width.1">
-        <source>Here you can enter the element's width.</source>
+        <source>Here you can enter the element&apos;s width.</source>
         <target>要素の幅を入力できます。</target>
       </trans-unit>
       <trans-unit id="tl_style.height.0">
@@ -54,7 +54,7 @@
         <target>高さ(height)</target>
       </trans-unit>
       <trans-unit id="tl_style.height.1">
-        <source>Here you can enter the element's height.</source>
+        <source>Here you can enter the element&apos;s height.</source>
         <target>要素の高さを入力できます。</target>
       </trans-unit>
       <trans-unit id="tl_style.minwidth.0">
@@ -62,7 +62,7 @@
         <target>最小の幅(min-width)</target>
       </trans-unit>
       <trans-unit id="tl_style.minwidth.1">
-        <source>Here you can enter the element's minimum width.</source>
+        <source>Here you can enter the element&apos;s minimum width.</source>
         <target>要素の最小の幅を入力できます。</target>
       </trans-unit>
       <trans-unit id="tl_style.minheight.0">
@@ -70,7 +70,7 @@
         <target>最小の高さ(min-height)</target>
       </trans-unit>
       <trans-unit id="tl_style.minheight.1">
-        <source>Here you can enter the element's minimum height.</source>
+        <source>Here you can enter the element&apos;s minimum height.</source>
         <target>要素の最小の高さを入力できます。</target>
       </trans-unit>
       <trans-unit id="tl_style.maxwidth.0">
@@ -78,7 +78,7 @@
         <target>最大の幅(max-width)</target>
       </trans-unit>
       <trans-unit id="tl_style.maxwidth.1">
-        <source>Here you can enter the element's maximum width.</source>
+        <source>Here you can enter the element&apos;s maximum width.</source>
         <target>要素の最大の幅を入力できます。</target>
       </trans-unit>
       <trans-unit id="tl_style.maxheight.0">
@@ -86,7 +86,7 @@
         <target>最大の高さ(max-height)</target>
       </trans-unit>
       <trans-unit id="tl_style.maxheight.1">
-        <source>Here you can enter the element's maximum height.</source>
+        <source>Here you can enter the element&apos;s maximum height.</source>
         <target>要素の最大の高さを入力できます。</target>
       </trans-unit>
       <trans-unit id="tl_style.positioning.0">
